@@ -1,0 +1,555 @@
+// Abraham et al 2010, cognitive, explicit, reading, verbal, belief > control sentences		
+// Subjects=22		
+64	-37	21
+61	-25	37
+-53	-30	26
+		
+// Abraham et al 2008 (1), cognitive, explicit, reading, verbal, mental state > non-mental sentences; (2), cognitive, explicit, reading, verbal, person-related mental state > non-mental sentences		
+// Subjects=17		
+64	-27	7
+-59	-16	-2
+61	-13	23
+64	-27	7
+		
+// Aichhorn et al 2006, cognitive, explicit, pictures/reading, button press, other > self perspective		
+// Subjects=18		
+-45	-42	39
+		
+// Aichhorn et al 2008 (1), cognitive, explicit, reading, button press, false belief > false photo; (2), cognitive, explicit, reading, button press, false belief > false photo		
+// Subjects=21		
+57	-54	15
+-57	-54	24
+-54	-30	-6
+54	-51	18
+-51	-57	21
+-57	-33	-3
+		
+// Assaf et al 2009, cognitive, implicit, game, think about response & move cursor, show (mentalising) > no-show trials		
+// Subjects=19		
+-44	-74	20
+50	-76	22
+		
+// Bahnemann et al 2010, affective, explicit, pictures/reading, button press, ToM > appearance judgement, bodies		
+// Subjects=25		
+-58	-44	4
+-56	-58	22
+52	-36	2
+		
+// Bodden et al 2013 (1), affective, explicit, pictures/text, button press, ToM > physical judgements; (2), cognitive, explicit, pictures/text, button press, ToM > physical judgements		
+// Subjects=30		
+46	-54	-16
+58	-32	38
+-48	-50	8
+		
+// Brune et al 2008, cognitive, explicit, cartoons/reading, think about response, ToM > physical judgements		
+// Subjects=13		
+-58	-40	16
+-56	-68	18
+-50	-32	0
+60	-64	6
+46	-70	10
+		
+// Chaminade et al 2012, cognitive, implicit, game, button press, human > computer/random opponent		
+// Subjects=19		
+56	-54	28
+		
+// Cheung et al 2012 (1), cognitive, explicit, pictures, button press, false belief > physical judgement; (2), cognitive, explicit, reading, button press, false belief > physical judgement		
+// Subjects=23		
+-46	-52	42
+54	-56	36
+52	-28	-6
+		
+// Decety et al 2004 (2), cognitive, implicit, game, button press, cooperative > independent		
+// Subjects=12		
+46	-34	42
+-42	-36	42
+		
+// Dodell-Feder et al 2011, cognitive, explicit, reading, button press, false belief > photo		
+// Subjects=62		
+52	-52	22
+-50	-58	20
+-60	-24	-8
+		
+// Dohnel et al 2012 (1), cognitive, explicit, cartoons, button press, belief reasoning > physical control; (2), cognitive, explicit, cartoons, button press, false belief reasoning > false physical control; (3), cognitive, explicit, cartoons, button press, true belief reasoning > true physical control		
+// Subjects=18		
+49	-65	10
+-52	-66	22
+51	-43	14
+-60	-29	-4
+57	-38	4
+-52	-66	22
+		
+// Dufour et al 2013, cognitive, explicit, reading, button press, false belief > photo		
+// Subjects=462		
+60	-6	-12
+58	-54	16
+64	-24	-10
+-58	-48	18
+-56	-58	24
+-40	-58	28
+-62	-16	-4
+		
+// Elliott et al 2006, cognitive, implicit, gambling game, button press, cooperation > playing alone		
+// Subjects=12		
+-50	-59	37
+-59	-33	-7
+		
+// Feng et al 2014, cognitive, implicit, reading, button press, point-to-other > point-to-self jokes		
+// Subjects=17		
+-57	-24	-6
+-54	-54	18
+51	-48	24
+		
+// Ferstl & von Cramon 2002, cognitive, implicit, auditory sentences, button press, ToM > control sentences		
+// Subjects=9		
+-50	-65	25
+-59	-58	8
+		
+// Fukui et al 2006, cognitive, implicit, game, button press, human > computer opponent		
+// Subjects=16		
+-60	-50	33
+		
+// Gallagher et al 2000 (1), cognitive, explicit, pictures, think about meaning, ToM > non-ToM cartoons; (2), cognitive, explicit, reading, think about meaning, ToM > non-ToM stories; (3), cognitive, explicit, pictures/reading, think about meaning, ToM > non-ToM cartoons/stories		
+// Subjects=6		
+-54	-66	22
+60	-46	22
+-46	-56	26
+66	-52	8
+58	-44	24
+46	-44	-24
+		
+// Gobbini et al 2007 (1), cognitive, explicit, reading, button press, false belief > physical stories; (2), cognitive, implicit, animated video, button press, social > random movement/non-social, motion		
+// Subjects=21		
+-56	-59	29
+57	-49	-6
+-51	-51	-10
+-60	-58	19
+52	-45	16
+47	-55	-3
+-62	-31	33
+50	-22	26
+		
+// Grezes et al 2004, cognitive, explicit, videos, button press, false > correct expectation, bodies		
+// Subjects=6		
+-50	-46	17
+66	-45	17
+-57	-50	1
+		
+// Gweon et al 2012, cognitive, explicit, auditory speech, button press, mental > physical stories		
+// Subjects=8		
+-52	-56	20
+48	-28	-8
+52	-52	24
+		
+// Harris et al 2005, cognitive, explicit, reading, button press, attribution to person/character > other		
+// Subjects=12		
+66	-43	19
+64	-52	6
+55	-66	26
+51	-73	10
+		
+// Herve et al 2013, cognitive, explicit, auditory, button press, ToM > plausibility judgements		
+// Subjects=42		
+-36	-52	42
+-44	-60	24
+52	-54	24
+40	-26	36
+		
+// Hooker et al 2008 (1), affective, explicit, pictures/reading, button press, false belief > true belief (emotion prediction); (2), affective, explicit, pictures/reading, button press, emotion prediction > emotion recognition (false belief); (3), affective, explicit, pictures/reading, button press, false belief > true belief (emotion recognition)		
+// Subjects=20		
+-50	-68	14
+-60	-46	-2
+62	-42	-4
+-54	-58	16
+-44	-80	22
+50	-54	22
+50	-54	22
+		
+// Jenkins et al 2010, cognitive, explicit, reading, [output], mentalising > non-social stories		
+// Subjects=15		
+54	-56	22
+-48	-62	36
+		
+// Jimura et al 2010, cognitive, explicit, reading, button press, mental state reasoning > control/physical		
+// Subjects=34		
+-54	-60	22
+		
+// Kana et al 2009, cognitive, explicit, animation, button press, ToM/social > random animations		
+// Subjects=12		
+-50	-72	28
+44	-48	18
+44	-46	-22
+-54	-34	-10
+		
+// Kestemont et al 2013, cognitive, implicit, reading, button press, person causal events > semantic baseline judgement		
+// Subjects=17		
+-50	-42	0
+		
+// Kircher et al 2009, cognitive, implicit, game, button press, human player > low level baseline		
+// Subjects=12		
+-42	-39	39
+		
+// Kliemann et al 2008, cognitive, explicit, reading, button press, false belief > photo		
+// Subjects=26		
+58	-56	32
+-50	-60	32
+		
+// Koelkebeck et al 2011, cognitive, explicit, images/motion, button press, ToM > random motion, motion		
+// Subjects=15		
+-62	-13	-16
+69	-53	24
+		
+// Krach et al 2008, cognitive, implicit, game, button press, human opponent > control(?)		
+// Subjects=20		
+59	-38	37
+		
+// Krach et al 2009 (2), cognitive, implicit, game, button press, human opponent > computer (female sample); (3), cognitive, implicit, game, button press, human opponent > low level baseline (male sample); (4), cognitive, implicit, game, button press, human opponent > low level baseline (female sample)		
+// Subjects=12		
+57	-61	28
+-42	-39	39
+53	-43	30
+		
+// Lee et al 2011, cognitive, explicit, reading, button press, false belief > simple reading; cognitive, explicit, reading, button press, false belief > false photo		
+// Subjects=14		
+42	-54	24
+-40	-54	24
+60	-26	-8
+-52	-60	14
+-64	-18	-8
+-44	-54	24
+50	-56	26
+-52	-58	34
+44	-66	38
+-50	-70	40
+-44	-68	26
+54	-62	28
+42	-52	22
+-38	-54	26
+56	-54	24
+-60	-58	26
+		
+// Lombardo et al 2010, cognitive, explicit, reading, [output], mentalising > physical judgements about others		
+// Subjects=33		
+52	-60	14
+-46	-64	18
+		
+// Ma et al 2011 (2), affective, explicit, reading, button press, diagnostic > irrelevant personality traits (ROIs)		
+// Subjects=15		
+-42	-42	14
+44	-62	30
+		
+// Malhi et al 2008, cognitive, explicit, animation, [output], ToM > random movements, motion 		
+// Subjects=20		
+-55	-19	9
+54	-64	39
+-48	-64	41
+		
+// Mano et al 2009, affective, explicit, reading, button press, consistent > inconsistent protagonist 		
+// Subjects=18		
+-56	-58	16
+68	-30	-14
+56	-64	26
+56	-62	28
+44	-76	40
+		
+// Marjoram et al 2006, cognitive, implicit, cartoons, button press, ToM joke> physical joke		
+// Subjects=13		
+57	-39	32
+		
+// Martin & Weisberg 2003, cognitive, implicit, animation, button press, social > mechanical animations, motion		
+// Subjects=12		
+45	-55	-17
+44	-36	-25
+62	-58	21
+-51	-58	21
+58	-20	-8
+-59	-21	-1
+		
+// Mason et al 2008 (1), affective, explicit, reading, button press, emotion inference > rest; (2), cognitive, explicit, reading, button press, intentional inference > rest 		
+// Subjects=18		
+-50	-36	-6
+-48	-60	18
+		
+// McAdams & Krawczyk 2011, cognitive, implicit, animation, button press, people/social > visuospatial/random/bumper car animation, motion		
+// Subjects=17		
+48	-26	-8
+52	-56	20
+-60	-44	12
+44	-34	-20
+46	-46	-22
+		
+// Mier et al 2010 (2), affective, explicit, photograph/reading, button press, affective ToM judgements > emotion recognition		
+// Subjects=16		
+-54	-57	18
+60	-51	27
+-54	-24	-12
+		
+// Mitchell 2008, cognitive, explicit, reading, button press, false belief > false photo		
+// Subjects=20		
+54	-51	27
+		
+// Modinos et al 2010 (2), cognitive, explicit, pictures/reading, button press, cognitive > affective mental state judgements		
+// Subjects=36		
+52	-32	4
+-60	-30	28
+		
+// Moran et al 2012 (1), cognitive, implicit, animation, none, social > mechanical animation, motion; (2), cognitive, explicit, reading, button press, false belief > false photo		
+// Subjects=31		
+-46	-59	16
+60	-45	16
+48	-51	22
+52	-41	14
+60	-51	26
+54	-45	18
+		
+// Murphy et al 2010 (1), cognitive, explicit, reading, button press, evaluation of other > semantic evaluation		
+// Subjects=10		
+-46	-66	24
+		
+// Otsuka et al 2009, cognitive, explicit, reading, button press, ToM > tense consistency judgement		
+// Subjects=22		
+-57	-27	-5
+53	-33	-5
+		
+// Otsuka et al 2011, cognitive, explicit, reading, button press, ToM > tense consistency judgement		
+// Subjects=22		
+-59	-54	22
+		
+// Polosan et al 2011, cognitive, implicit, reading/Stroop, button press, human > computer opponent		
+// Subjects=14		
+69	-25	17
+		
+// Rabin & Rosenbaum 2012 (1), cognitive, implicit, photographs, button press/imagining, ToM for familiar > unfamiliar others; (2), cognitive, implicit, photographs, button press/imagining, ToM for familiar > unfamiliar others		
+// Subjects=18		
+56	-32	0
+-56	-32	4
+-48	-20	-8
+-48	-44	0
+-48	-52	-12
+48	-20	4
+44	-60	24
+-48	-72	20
+-48	-68	20
+56	-64	24
+-56	-68	-4
+		
+// Rapp et al 2010, cognitive, implicit, reading, button press, ironic > literal sentences 		
+// Subjects=15		
+-57	-36	36
+		
+// Rilling et al 2008, cognitive, implict, game, button press, human opponent (pris dilemma) > lone gambling		
+// Subjects=20		
+51	-53	38
+		
+// Rilling et al 2004, cognitive, implicit, game, button press, human opponent > computer/control gamble		
+// Subjects=19		
+54	-54	30
+		
+// Roser et al 2012, cognitive, explicit, cartoons, think about answer, ToM > non-ToM questions 		
+// Subjects=14		
+50	-60	14
+56	-46	14
+-44	-60	22
+-40	-52	12
+-60	-38	2
+		
+// Ross & Olson 2010 (2), cognitive, implicit, animations, button press, social > bumper car/mechanical animations, motion 		
+// Subjects=15		
+60	-51	7
+-56	-46	16
+-42	-47	-15
+		
+// Rothmayr et al 2011, cognitive, explicit, cartoons, button press, false belief > true belief		
+// Subjects=12		
+52	-50	38
+66	-36	-2
+-52	-50	32
+-64	-38	-10
+		
+// Saft et al 2013, cognitive, explicit, cartoons, think about answer, ToM > control/physical		
+// Subjects=26		
+52	-64	2
+-54	-54	6
+-44	-52	16
+		
+// Samson et al 2008 (2), cognitive, implicit, cartoons, button press, ToM > semantic joke cartoon		
+// Subjects=17		
+44	-61	-6
+		
+// Saxe & Kanwisher 2003 (1), cognitive, implicit, reading, [output], ToM > mechanical inference stories		
+// Subjects=25		
+-54	-60	21
+-57	-27	-12
+51	-54	27
+		
+// Saxe & Kanwisher 2003 (2), cognitive, explicit, reading, button press, false belief > false photo		
+// Subjects=21		
+54	-51	18
+-48	-63	33
+		
+// Saxe & Powell 2006 (1), cognitive, explicit, reading, button press, false belief > false photo; (2), cognitive, explicit, reading, button press,  thoughts > bodily sensations/appearance questions		
+// Subjects=12		
+60	-57	15
+-51	-57	27
+57	-54	18
+-60	-54	24
+		
+// Schnell et al 2011, affective, explicit, cartoons, button press, affective > visuospatial judgements		
+// Subjects=21		
+51	-30	-3
+48	-36	3
+-57	-66	24
+-45	-57	27
+-54	-51	27
+		
+// Seger et al 2004 (1), affective, explicit, reading, [output], judgement about others' preference > vowel number		
+// Subjects=12		
+65	-21	14
+		
+// Shibata et al 2010, cognitive, implicit, reading, button press, ironic > literal sentences		
+// Subjects=13		
+-52	-30	-2
+		
+// Sommer et al 2007, cognitive, explicit, cartoons, button press, false belief > true belief		
+// Subjects=16		
+64	-54	-4
+		
+// Sommer et al 2010 (3), affective, explicit, cartoons/reading, button press, unfulfilled goal-related emotion > reality judgement		
+// Subjects=14		
+43	-59	39
+		
+// Spiers & Maguire 2006, cognitive, implicit, game, thinking about minds, spontaneous ToM thoughts > no directed thought		
+// Subjects=20		
+60	-36	0
+-51	-72	15
+51	-72	9
+		
+// Spotorno et al 2012, cognitive, implicit, reading, button press, ironic > literal sentences		
+// Subjects=20		
+68	-23	-12
+65	-20	14
+		
+// Sripada et al 2009, cognitive, implicit, game, button press, human > opponent		
+// Subjects=26		
+48	-70	8
+		
+// Uchiyama et al 2006, cognitive, implicit, reading, button press, sarcastic/non-sarcastic > unrelated sentences		
+// Subjects=20		
+-56	-28	-2
+		
+// Van der Meer et al 2011, cognitive, explicit, videos, button press, high > low information inhibition		
+// Subjects=19		
+-56	-38	0
+-56	-54	16
+		
+// Van Hoeck et al 2014, cognitive, explicit, reading, button press, false belief > reality reasoning		
+// Subjects=19		
+-50	-68	42
+		
+// Vanderwal et al 2008, cognitive, implicit, animation, button press, social/friends > bumper car/mechanical, motion		
+// Subjects=11		
+50	-43	10
+-50	-52	19
+56	-31	-1
+-41	-69	14
+-54	-53	9
+		
+// Varga et al 2013 (1), cognitive, implicit, auditory speech, button press, irony > control/physical		
+// Subjects=24		
+-58	-54	18
+-56	-50	2
+52	-26	-8
+50	-32	0
+		
+// Veroude et al 2012, cognitive, explicit, reading, button press, self/other emotion/action > baseline/fixation		
+// Subjects=24		
+-49	-70	35
+		
+// Vollm et al 2006 (1), affective, explicit, cartoons, button press, empathy > physical; (2), cognitive, explicit, cartoons, button press, ToM > physical		
+// Subjects=13		
+-53	-58	21
+-63	-22	-9
+		
+// Walter et al 2004 (1), cognitive, implicit, cartoons, button press, communicative intention > physical causality; (3), cognitive, implicit, cartoons, button press, private intention > physical causality		
+// Subjects=13		
+51	-42	12
+54	-60	12
+48	-27	0
+57	-51	12
+54	-63	9
+-48	-60	24
+		
+// Walter et al 2004 (2), cognitive, implicit, cartoons, button press, prospective social intention > physical causality; (4), cognitive, implicit, cartoons, button press, communicative intention > physical causality		
+// Subjects=12		
+57	-54	15
+45	-51	9
+-42	-57	18
+54	-48	18
+-57	-48	18
+45	-51	12
+-51	-27	-3
+54	-48	18
+-57	-48	18
+45	-51	12
+-51	-27	-3
+		
+// Walter et al 2009 (1), cognitive, implicit, cartoons, button press, prospective social intention > physical causality; (2), cognitive, implicit, cartoons, button press, private intention > physical causality; (3), cognitive, implicit, cartoons, button press, communicative intention > physical causality		
+// Subjects=12		
+45	-54	12
+-42	-57	21
+45	-45	-18
+48	-69	6
+48	-57	12
+48	-75	6
+48	-54	12
+-57	-45	5
+48	-57	21
+-45	-57	21
+-57	-45	6
+		
+// Wang et al 2006, cognitive, explicit, cartoon/auditory speech, button press, irony > no irony stories		
+// Subjects=12		
+-51	-38	13
+66	-22	-6
+		
+// Young et al 2007 (1), cognitive, explicit, reading, button press, false belief > photo		
+// Subjects=10		
+56	-52	30
+-42	-62	26
+		
+// Young et al 2007 (2), cognitive, explicit, reading, button press, false belief > photo		
+// Subjects=17		
+56	-54	28
+-52	-58	26
+		
+// Young et al 2010 (1), cognitive, explicit, reading, button press, false belief > photo; (2), cognitive, explicit, reading, button press, mental states > physical events		
+// Subjects=17		
+58	-52	28
+-56	-52	26
+62	-56	22
+-54	-58	26
+		
+// Young & Saxe 2008, cognitive, explicit, reading, button press, false belief > photo		
+// Subjects=17		
+56	-54	28
+-52	-58	26
+		
+// Young & Saxe 2009 (1), cognitive, explicit, reading, button press, false belief > photo; (2), cognitive, explicit, reading, button press, false belief > photo		
+// Subjects=14		
+54	-52	16
+-52	-70	26
+50	-70	18
+		
+// Young et al 2011, cognitive, explicit, reading, button press, false belief > photo		
+// Subjects=17		
+56	-54	24
+-50	-54	26
+		
+// Zaitchik et al 2010 (2), cognitive, explicit, reading, button, belief > control sentence		
+// Subjects=15		
+48	-58	18
+54	-34	24
+		
+// Kobayashi et al 2008, cognitive, explicit, stories, button press, ToM > physical stories		
+//Subjects=28		
+57.78	-26.93	32.95

@@ -1,0 +1,238 @@
+// Anzellotti et al 2011, MRI, tools > animals		
+// Subjects=11		
+-46	-63	-10
+-38	-40	38
+-46	-31	37
+54	-29	38
+		
+// Boronat et al 2005, MRI, object > scrambled words		
+// Subjects=15		
+56	-64	-10
+		
+// Bohlhalter et al 2009, MRI, tools > rest; tools > rest (left hand)		
+// Subjects=15		
+-32	-70	38
+60	-50	-10
+-56	-54	-22
+-48	-52	-28
+-38	-52	36
+-56	-68	-12
+-56	-60	2
+		
+// Buxbaum et al 2006, MRI, tools > scrambled baseline		
+// Subjects=15		
+63.28	-26.18	40.63
+		
+// Chao et al 1999, MRI, tools > animals, viewing		
+// Subjects=8		
+-48	-57	5
+		
+// Chao et al 1999, MRI, tools > animals, covert naming		
+// Subjects=14		
+55	-55	7
+-47	-59	10
+		
+// Chao et al 2002, MRI, tools > animals		
+// Subjects=7		
+-46	-57	4
+		
+// Creem-Regehr & Lee 2005, MRI, tools > scrambled tools, viewing; tools > scrambled tools, imagined motion; tools > non-tools, imagined motion		
+// Subjects=12		
+-46	-52	-13
+57	-62	2
+48	-67	1
+53	-59	22
+-42	-36	-15
+48	-62	6
+48	-40	-16
+50	-67	-1
+44	-48	14
+-56.75	-66.87	25.41
+-63.55	-45.15	5.45
+-43.7	-68.32	32.05
+-40.1	-49.69	-21.4
+		
+// Choi et al 2001, MRI, tool actions > finger tapping (right hand)		
+// Subjects=10		
+-59	-60	-16
+		
+// Canessa et al 2008, MRI, tool action > semantic judgement		
+// Subjects=15		
+-50	-30	42
+		
+// Damasio et al 1996, PET, tools > unfamiliar faces; tools > unfamiliar faces (different thresholding); tools > unfamiliar faces (different thresholding again)		
+// Subjects=9		
+-55	-53	-10
+-52.93	-53.05	-10.76
+-55.07	-52.96	-9.61
+		
+// Fridman et al 2006, MRI, tools > rest		
+// Subjects=19		
+-61	-26	23
+		
+// Grezes & Decety 2002, PET, tools > non-object size, orientation judgement; tools > non-object size, covert naming; tools > non-object size, covert verb generation		
+// Subjects=10		
+51	-67	19
+53	-29	-9
+-62.55	-30.47	1.74
+-40.15	-34.69	-21.76
+-50.12	-61.34	38.2
+		
+// Grafton et al 1996, PET, imagined grasping > observing		
+// Subjects=7		
+-25	-60	39
+-51	-11	5
+		
+// Handy et al 2003, MRI, tools > rest; tools > natural objects		
+// Subjects=14		
+59	-49	35
+-56	-49	37
+55.67	-34.28	34.84
+		
+// Kiyosawa et al 1996, PET, tools > fixation; tools > ???		
+// Subjects=4		
+58.5	-35.15	2.38
+-53.77	-43.64	9.61
+54.22	-32.62	6.68
+-44.89	-30.9	30.61
+		
+// Kellenbach et al 2003, PET, action judgements, tools > scrambled		
+// Subjects=9		
+-48	-64	-5
+-58	-41	23
+		
+// Liljestrom et al 2008, MRI, tools > rest		
+// Subjects=15		
+-48	-36	42
+		
+// Moscovitch et al 1995, PET, object > perceptual baseline		
+// Subjects=13		
+44	-55	-18
+46	-57	-13
+44	-63	-4
+		
+// Okada et al 2000, MRI, tools > animals		
+// Subjects=12		
+-52.88	-54.87	-7.22
+		
+// Phillips et al 2002, PET, tools (action) > perceptual judgement		
+// Subjects=26		
+-59	-65	1
+-55	-40	-11
+-49	-39	-25
+		
+// Peran et al 2010, MRI, tool (imagined action) > fixation		
+// Subjects=12		
+-44	-62	-8
+54	-38	8
+		
+// Tranel et al 2005, PET, tools > baseline (non-homonyms); tools > baseline (all tools)		
+// Subjects=10		
+-53	-49	-15
+-52.97	-49.01	-13.4
+		
+// Valyear et al 2007, MRI, tools > animals; tools > graspable objects		
+// Subjects=11		
+-51.63	-64.58	3.69
+-52.83	-54.51	-3.34
+-49.47	-60.18	4.68
+-53.73	-70.67	7.47
+-42	-61.97	-3.45
+-49.6	-53.52	-4.5
+-56.12	-59.26	-8.08
+-54.07	-57.93	-16.98
+-50.63	-62.96	-2.09
+-46.21	-65.51	4.92
+		
+// Vingerhoets et al 2009, MRI, actions (on objects) > pointing/gesture		
+// Subjects=15		
+-46.93	-25.61	41.33
+-47.46	-62.4	-7.69
+		
+// Vingerhoets 2008, MRI, familiar > unfamiliar tools		
+// Subjects=14		
+-54	-57	37
+-57	-38	1
+		
+// Wierenga et al 2009, MRI, tools > vehicles > animals		
+// Subjects=20		
+-54	-57	0
+48	-73	4
+-60	-30	39
+-50	-69	28
+		
+// Bracci et al 2012, MRI, tools > animals		
+// Subjects=14		
+-50.64	-68.48	-3.67
+		
+// Perani et al 1999, PET, tools > baseline		
+// Subjects=11		
+-59.38	-48.51	-7.74
+		
+// Roberts & Humphrey 2010, MRI, tools > natural scenes		
+// Subjects=12		
+-50	-68	-8
+48	-65	-12
+55	-42	8
+		
+// Vingerhoets et al 2011, MRI, tool > non-tool movements (planning); tool > non-tool movements (execution)		
+// Subjects=16		
+-39.56	-58.71	19.83
+-52.74	-61.48	2.4
+		
+// Vingerhoets et al 2013, MRI, tool > egg		
+// Subjects=10		
+-51.27	-25.73	40.29
+		
+// Cappa et al 1998, PET, tools > animals		
+// Subjects=13		
+-51	-68	-6
+52	-39	27
+		
+// Grossman et al 2013, MRI, manmade > natural objects		
+// Subjects=18		
+-50	-56	2
+-48	-66	0
+-48	-58	-10
+		
+Lewis et al 2005		
+// Subjects=20		
+54.26	-52.08	5.25
+-53.78	-59.05	5.53
+-46.1	-34.07	19.74
+53.29	-27.13	19.6
+-57.81	-25.1	35.86
+		
+// Mahon et al 2007, MRI, tools > animals		
+// Subjects=17		
+-51.75	-64.33	-5.18
+-59.96	-23.94	36.9
+		
+// Mahon et al 2010, MRI, tools > non-tool objects		
+// Subjects=20		
+-53.44	-34.56	37.84
+		
+// Kroliczak et al 2009, MRI, tool/action verbs > "mental" verbs		
+// Subjects=12		
+-58	-36	30
+-58	-36	30
+		
+// Johnson-Frey et al 2005, MRI, action planning > no-go task (tools and controls)		
+// Subjects=24		
+-52	-56	-5
+-63	-37	1
+71	-25	-2
+		
+// Kassuba et al 2011, MRI, object > texture crossmodal matching		
+// Subjects=19		
+-50	-27	16
+65	-15	12
+62	-27	14
+-44	-49	-5
+-41	-47	-14
+		
+// Roberts & Humphreys 2010, MRI, objects > scenes		
+// Subjects=14		
+-50	-68	-8
+48	-65	-12
+55	-42	8

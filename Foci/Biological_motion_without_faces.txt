@@ -1,0 +1,270 @@
+// Bonda et al 1996, body, PLD, > non-bio motion, PET; hand, PLD, > non-bio motion, PET		
+//Subjects=11		
+61.86	-54.98	8.2
+50.92	-69.19	-5.33
+50.89	-69.39	-7.55
+-50.33	-61.84	21.44
+-46.96	-30.18	38.42
+		
+// Cross et al 2006, body, real dancing, > blank, MRI		
+//Subjects=10		
+45	-48	18
+66	-15	30
+-36	-36	42
+57	-30	36
+51	-45	9
+57	-36	21
+		
+// Grezes et al 2001, body, PLD, > non-bio motion, MRI		
+//Subjects=10		
+52	-60	6
+		
+// Grezes et al 2007, body, opening doors, > static bio, MRI, button press, ToM		
+//Subjects=16		
+60	-42	30
+-60	-42	30
+60	-44	16
+-60	-44	16
+48	-66	8
+-48	-66	8
+44	-50	-22
+-44	-50	-22
+		
+// Grossman and Blake 2002, body, PLD, > non-bio scrambled motion, MRI, button press		
+//Subjects=10		
+-43.2	-53.63	14.68
+-45.13	-59.76	14.65
+-49.37	-42.6	7.87
+51.21	-48.66	13.25
+54.13	-53.92	11.93
+55.25	-33	2.56
+		
+// Howard et al 1996, body, PLD, > non-bio motion, MRI		
+//Subjects=6		
+-49.4	-23.54	17.63
+		
+// Iseki et al 2008, body, gait/stepping vids, > bio scrambled, MRI		
+//Subjects=16		
+-50	-34	30
+46	-62	0
+50	-70	-2
+-48	-68	8
+		
+// Jung et al 2009, body, PLD, > non-bio scrambled motion, button press, MRI		
+//Subjects=9		
+60.84	-52.39	13.01
+-58.88	-60.08	29.26
+-60.08	-47.84	22.46
+69.29	-28.63	2.67
+-58.07	-27.08	14.77
+-41.62	-56.93	27.53
+60.68	-51.41	0.59
+58.8	-27.44	27.38
+-62.26	-32.64	24.36
+		
+// Michels et al 2005, body, PLD, > non-bio static, button press, MRI		
+//Subjects=4		
+44.59	-71.36	6.2
+46.7	-64.12	3.2
+44.23	-43.45	-16.73
+57.56	-42.83	12.12
+-35.72	-42.67	-15.44
+		
+// Peelen et al 2006, body, animations, > bio motion scrambled, button press, MRI		
+//Subjects=17		
+48.76	-72.49	-6.09
+57.47	-52.27	2.97
+63.08	-39.75	21.8
+-58.95	-37.64	28.16
+		
+// Peuskens et al 2005, body, PLD, > non-bio scrambled motion, MRI		
+//Subjects=6		
+54	-69	6
+-48	-69	3
+45	-60	-18
+57	-48	12
+		
+// Pichon et al 2008, body, door opening, > bio static, button press, MRI		
+//Subjects=16		
+62	-44	16
+-62	-44	16
+48	-70	2
+-48	-70	2
+		
+// Santi et al 2003, body, PLD, > non-bio scrambled motion, MRI; mouth, PLD talking, > non-bio motion, MRI		
+//Subjects=10		
+44.29	-57.17	-14.25
+69.31	-44.89	0.92
+45.54	-60.28	-1.64
+61.78	-28.24	7.24
+-50.37	-23.78	26.64
+		
+// Saygin et al 2004, body, PLD, > non-bio scrambled motion, button press, MRI		
+//Subjects=12		
+-48.24	-54.7	17.34
+58.72	-59.74	14.89
+52.23	-75.17	10.93
+-57.27	-52.11	-11.9
+		
+// Thompson et al 2005, body, animated mannequins, > bio scrambled, button press, MRI		
+//Subjects=10		
+-41.66	-51.72	25.89
+-41.57	-37.91	35.73
+50.86	-52.17	-7.01
+48.96	-39.26	16.39
+47.07	-35.06	38.42
+		
+// Zentgraf et al 2005, body, real gymnastics, > blank/rest, MRI		
+//Subjects=10		
+-57	-33	27
+		
+// Vaina et al 2001, body, PLD, > non-bio scrambled motion, button press, MRI		
+//Subjects=5		
+46.78	-70.08	8.28
+-48.3	-70.42	9.93
+48.99	-69.66	12.68
+		
+// Cunnington et al 2006, hand, ASL, > bio scrambled static, MRI, semantics		
+//Subjects=14		
+64.22	-22.86	30.2
+-54.79	-22.4	18.73
+-48.29	-72.54	10.14
+38.53	-75.92	38.13
+		
+// Gallagher and Frith 2004, hand, expressive gestures, > static bio, MRI, gesture; hand, instrumental gestures, > static bio, MRI, gesture		
+//Subjects=12		
+59.66	-57.48	4.57
+-54.79	-22.4	18.73
+		
+// Grezes et al 1998, hand, hand movements, > static bio, PET		
+//Subjects=10		
+-61.28	-50.9	12.7
+-48.31	-66.16	9.51
+48.83	-64.32	0.95
+		
+// Grezes et al 1999, hand, hand movements, > static bio, PET		
+//Subjects=9		
+-50.43	-70.22	12.19
+50.97	-36.03	4.83
+51.02	-72.82	1.75
+		
+// Holle et al 2010, hand, narrative gestures, > blank/rest, MRI, gesture		
+//Subjects=16		
+-55	-66	9
+		
+// Jonas et al 2007, hand, finger movements, > static bio, MRI		
+//Subjects=17		
+-42	-39	39
+		
+// Lui et al 2008, hand, mime actions, > motor imagery, MRI		
+//Subjects=16		
+-48	-56	0
+40	-72	36
+48	-40	0
+60	-48	-4
+		
+// Montgomery et al 2007, hand, communicative gestures, > blank/rest, MRI, gesture		
+//Subjects=14		
+64.37	-28.3	40.82
+51.03	-49.75	7.31
+-54.81	-52.05	11.58
+53.19	-62.93	4.1
+-54.83	-67.56	6.39
+		
+// Villarreal et al 2008, hand, meaningless movements, > blank/rest, MRI		
+//Subjects=17		
+53.11	-68.97	-3.15
+-44.22	-65.68	-8.54
+61.88	-41.75	11.94
+		
+// Wheaton et al 2004, hand, opening/closing hand, > static bio, MRI; mouth, opening/closing, > static bio, MRI		
+//Subjects=12		
+53.11	-62.38	-1.56
+55.32	-62.06	1.73
+67.21	-34.6	7.78
+55.29	-43.67	3.28
+50.7	-56.61	-20.02
+		
+// Biagi et al 2010, hand w/ ojbect, manipulating object, > static bio, MRI		
+//Subjects=12		
+45.57	-67.73	-0.9
+-52.61	-38.65	16.94
+59.76	-38.15	16.1
+-58.91	-27.44	33.87
+56.73	-31.08	34.5
+		
+// Chong et al 2008, hand w/ object, grasping, > non-bio static, MRI		
+//Subjects=15		
+-42	-58	12
+-58	-62	12
+42	-58	12
+50	-60	12
+56	-56	8
+50	-40	24
+		
+// Filimon et al 2007, hand w/ object, grasping, > non-bio static, MRI		
+//Subjects=15		
+-45	-58	12
+48	-72	4
+51	-50	11
+		
+// Gazzola et al 2007, hand w/ object, human/robot arm movements, > static bio + non-bio, MRI		
+//Subjects=16		
+50	-58	2
+50	-40	20
+		
+// Grafton et al 1996, hand w/ object, grasping, > bio + non-bio static, PET		
+//Subjects=7		
+51.41	-36	39.56
+-61.54	-21.1	-1.45
+		
+// Meister and Iacoboni 2007, hand w/ object, hand manipulating object, > blank/rest, MRI		
+//Subjects=14		
+-30	-46	40
+44	-72	10
+-50	-58	-14
+		
+// Molnar-Szakacs et al 2006, hand w/ object, hand moving objects, > blank/rest, MRI		
+//Subjects=12		
+54	-68	-2
+54	-68	-2
+56	-62	2
+58	-26	42
+52	-62	6
+-56	-24	38
+52	-62	6
+		
+// Perani et al 2001, hand w/ object, grasping objects, > non-bio static, PET		
+//Subjects=8		
+-50.48	-70.63	7.74
+57.48	-66.41	1.01
+-45.86	-31.13	39.62
+-50.93	-43.34	-21.84
+44.35	-52.4	-9.12
+		
+// Shmuelof et al 2005, hand w/ object, hand manipulating objects, > bio motion scrambled?, MRI		
+//Subjects=11		
+50.03	-59.02	11.61
+-58.89	-20.75	36.57
+		
+// Schubotz and Von Cramon 2004, hand w/ object, two handed/two object actions, button press, MRI		
+//Subjects=18		
+-49.17	-61.21	28.08
+46.93	-57.99	22.76
+-58.85	-28.09	38.42
+		
+// Schubotz and Von Cramon 2009, hand w/ object, two handed/two object actions, button press, MRI		
+//Subjects=18		
+-62.14	-19.7	36.52
+51	-55.49	3.4
+47.6	-46.86	-7.48
+		
+// Tai et al 2004, hand w/ object, grasping, > bio static, PET		
+//Subjects=7		
+-46	-70	8
+50	-66	4
+		
+// Turella et al 2009, hand w/ object, arm grasping, > non-bio + bio static, MRI		
+//Subjects=16		
+44	-66	0
+66	-36	18	

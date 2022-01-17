@@ -1,0 +1,226 @@
+// Willems, RM; Ozyurek, A; Hagoort, P, 2008, VERBAL&NONVERBAL, VISUAL, incongruent>congruent SEQUENCES		
+//Subjects=19		
+-53	-30	-7
+-40	-61	18
+		
+// Balthasar, Andrea J. R.; Huber, Walter; Weis, Susanne, 2011, auditory, verbal, homonyms>identification		
+//Subjects=18		
+-50	-56	38
+-38	-38	14
+		
+// Hsu, Nina S.; Kraemer, David J. M.; Oliver, Robyn T.; Schlichting, Margaret L.; Thompson-Schill, Sharon L., 2011, auditory, verbal, less>more distance to foil		
+//Subjects=12		
+47	-26	-2
+-44	-56	-12
+		
+// Vitello, Sylvia; Warren, Jane E.; Devlin, Joseph T.; Rodd, Jennifer M., 2014, auditory, verbal, ambiguous word in sentence>not		
+//Subjects=20		
+-45	-55	-11
+-48	-58	-8
+		
+// Rodd, Jennifer M.; Johnsrude, Ingrid S.; Davis, Matthew H. 2012, auditory, verbal, ambiguity across time		
+//Subjects=15		
+-44	-50	-18
+-60	-48	8
+-48	-56	-12
+-54	-44	-8
+-52	-38	-2
+-56	-58	0
+-50	-44	6
+-62	-50	10
+-56	-26	-6
+		
+// Tahmasebi, Amir M.; Davis, Matthew H.; Wild, Conor J.; Rodd, Jennifer M.; Hakyemez, Helene; Abolmaesumi, P.; Johnsrude, Ingrid S., 2012, auditory, verbal, ambiguous homonym>unambiguous word		
+//Subjects=24		
+-49	-67	-4
+		
+// Bekinschtein, Tristan A.; Davis, Matthew H.; Rodd, Jennifer M.; Owen, Adrian M., 2011, auditory, verbal, ambiguous homonym/homophone>unambiguous word		
+//Subjects=12		
+-44	-48	-20
+		
+// Tune, Sarah; Schlesewsky, Matthias; Nagels, Arne; Small, Steven L.; Bornkessel-Schlesewsky, Ina, 2016, auditory, verbal, anomalous>normal sentences		
+//Subjects=18		
+-61	-32	26
+-50	-15	2
+-47	-43	-18
+58	-29	35
+47	-58	38
+65	-22	1
+-59	-34	39
+63	-47	-2
+63	-32	-14
+		
+// Willems, Roel M.; Frank, Stefan L.; Nijhof, Annabel D.; Hagoort, Peter; van den Bosch, Antal 2016, auditory, verbal, word context surrpisal		
+//Subjects=24		
+-46	-46	-16
+-64	-36	12
+-58	-50	10
+-54	-58	6
+64	-26	10
+		
+// Obleser, Jonas; Kotz, Sonja A., 2010, auditory, verbal, low>high cloze probability		
+//Subjects=16		
+-50	-42	2
+46	-18	-6
+		
+// Scharinger, Mathias; Bendixen, Alexandra; Herrmann, Bjorn; Henry, Molly J.; Mildner, Toralf; Obleser, Jonas, 2016, auditory, verbal, unpredictable>predicatable word when incomplete>complete sentence		
+//Subjects=22		
+-57	-16	-2
+-42	-49	34
+		
+//  Krieger-Redwood, Katya; Teige, Catarina; Davey, James; Hymers, Mark; Jefferies, Elizabeth, 2015, nonverbal, visual, strong>weak associations between pics		
+//Subjects=22		
+-56	-60	26
+-56	-44	6
+-34	-80	40
+-62	-40	-4
+-58	-40	-8
+-62	-50	34
+		
+//  Schnur, TT; Schwartz, MF; Kimberg, DY; Hirshorn, E; Coslett, HB; Thompson-Schill, SL, 2009, nonverbal, visual, semantic blocks>mixed (i.e., more interference)		
+//Subjects=16		
+-45	-66	30
+60	-51	15
+48	-54	18
+		
+//  Tobia, Michael J.; Madan, Christopher R., 2017, nonverbal, visual, subordinate >prototypical use		
+//Subjects=16		
+-47	-35	38
+		
+//  Thompson schill et al. 1997, nonverbal, visual, high>low selection		
+//Subjects=6		
+-52	-55	2
+-31	-71	41
+		
+//  Bitan, Tali; Kaftory, Asaf; Meiri-Leib, Adi; Eviatar, Zohar; Peleg, Orna, 2017; VERBAL, VISUAL, subordinate>dominant meaning relation		
+//Subjects=23		
+-48	-32	-4
+		
+//  Abraham, Anna; Pieritz, Karoline; Thybusch, Kristin; Rutter, Barbara; Kroeger, Soeren; Schweckendiek, Jan; Stark, Rudolf; Windmann, Sabine; Hermann, Christiane, 2012, VISUAL, VERBAL, USES>LOCATIONS 		
+//Subjects=19		
+-59	-32	40
+-50	-59	-8
+		
+//  Snyder, Hannah R.; Banich, Marie T.; Munakata, Yuko; 2011, visual, verbal, HIGH>LOW COMPETITION		
+//Subjects=18		
+-52	-52	-4
+-56	-48	-2
+52	-26	-10
+		
+//  Balthasar, Andrea J. R.; Huber, Walter; Weis, Susanne; 2011; VERBAL, VISUAL, VISUAL HOMONYMS>IDENTIFICATION		
+//Subjects=18		
+-46	-66	27
+40	-68	9
+		
+//  Grindrod, CM; Bilenko, NY; Myers, EB; Blumstein, SE, 2008; VERBAL, VISUAL, ambiguity		
+//Subjects=15		
+-58	-38	6
+		
+//  Madore, 2019; VERBAL, VISUAL, alternate uses> associations		
+//Subjects=32		
+-48	-31	36
+-51	-62	-2
+58	-58	-6
+60	-24	42
+-46	-40	-18
+-58	-31	42
+56	-66	-1
+-52	-67	-1
+-48	-49	-20
+48	-37	-20
+		
+//  Hallam, Glyn P.; Whitney, Carin; Hymers, Mark; Gouws, Andre D.; Jefferies, Elizabeth, 2016, VERBAL, VISUAL, 		
+//Subjects=18		
+-52	-40	0
+		
+//  Jeon, Hyeon-Ae, 2012, VERBAL, VISUAL, ambiguous homonym>unambiguous word		
+//Subjects=14		
+47	-46	-10
+		
+//  Tylen, K.; Christensen, P.; Roepstorff, A.; Lund, T.; Ostergaard, S.; Donald, M., 2015, VERBAL, VISUAL, INCOHERENT>COHERENT STORY		
+//Subjects=24		
+58	-36	-16
+-58	-58	-10
+		
+//  Mestres-Misse, Anna; Bazin, Pierre-Louis; Trampel, Robert; Turner, Robert; Kotz, Sonja A., 2014, VERBAL, VISUAL, subordinacy/ambiguity/incongruuence		
+//Subjects=23		
+-63	-39	-1
+-60	-41	5
+-60	-37	8
+		
+//  Newman, Sharlene D.; Ikuta, Toshikazu; Burns, Thomas, Jr., 2010, VISUAL, VERBAL, unrelated>related sentence		
+//Subjects=20		
+-26	-58	42
+30	-58	42
+		
+//  Peelle, JE; Troiani, V; Grossman, M, 2009, VERBAL, VISUAL, inconsistent>consistent description		
+//Subjects=25		
+-44	-66	30
+44	-68	34
+		
+//  Zhu, Zude; Hagoort, Peter; Zhang, John X.; Feng, Gangyi; Chen, Hsuan-Chih; Bastiaansen, Marcel; Wang, Suiping, 2012, VERBAL, VISUAL, incongruence/cloze probability parameter		
+//Subjects=27		
+-56	-48	-4
+-54	-46	40
+		
+//  Carter, Benjamin, T., Foster, Brent, Muncy, Nathan M., Luke, Steven G., 2019; VERBAL, VISUAL, surprisal of word in context		
+//Subjects=41		
+62	-44	26
+59	-65	14
+		
+//  Huang, Jian; Zhu, Zude; Zhang, John X.; Wu, Mingxiang; Chen, Hsuan-Chih; Wang, Suiping, 2012, VERBAL, VISUAL, unexpected>expected word		
+//Subjects=23		
+-58	-39	30
+		
+//  Willems, RM; Ozyurek, A; Hagoort, P, 2008, VERBAL, VISUAL, words sentences incongruent>congruent		
+//Subjects=19		
+-55	-35	-1
+		
+//  Zhu, Zude; Feng, Gangyi; Zhang, John X.; Li, Guochao; Li, Hong; Wang, Suiping, 2013, VERBAL, VISUAL, violation>low cloze>high cloze parametric modulator		
+//Subjects=26		
+-64	-46	-4
+-36	-58	42
+		
+//  Moberget, Torgeir; Gullesen, Eva Hilland; Andersson, Stein; Ivry, Richard B.; Endestad, Tor, 2014, VERBAL, VISUAL, incongruent>congruent sentence		
+//Subjects=32		
+-54	-40	8
+		
+//  Bedny et al, 2008, VERBAL, VISUAL,  ambiguous >not		
+//Subjects=20		
+-57	-42	-3
+		
+//  Gennari et al, 2007, VERBAL, VISUAL, Ambiguous > unambiguous		
+//Subjects=17		
+-52	-61	5
+		
+//  Hirshorn  and  Thompson Schill, 2006, VERBAL, VISUAL, switch>cluster		
+//Subjects=10		
+-39	-39	36
+-39	-66	39
+66	-33	21
+51	-30	-18
+36	-54	42
+		
+//  Persson et al. 2004,  VERBAL, VISUAL, HIGH>LOW SELECTION		
+//Subjects=22		
+-52	-52	-5
+		
+//  Race et al. 2009, VERBAL, DIFFERENT>SAME ATTRIBUTE/reversed/novel decision > repeated		
+//Subjects=26		
+-54	-42	3
+-45	-57	-12
+-45	-51	-15
+		
+//  Snyder et al., 2007, VERBAL, VISUAL, Specific attribute related> globally sem related		
+//Subjects=14		
+-51	-57	-18
+-57	-48	-3
+		
+//  Thompson schill et al. 1997, VERBAL, VISUaL, High > low selection (man>few poss responses)	/similar colour vs generally similar	
+//Subjects=6		
+-52	-59	-7
+		
+// Zempleni et al., 2007, verbal visual, ambiguous>unambiguous		
+//Subjects=16		
+-50	-48	-12
+56	-34	-16

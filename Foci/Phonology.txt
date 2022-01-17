@@ -1,0 +1,418 @@
+// Baciu et al 2005, H, rhyme > visual detection, words, button press, visual		
+//Subjects=10		
+-50.67	-62.2	-5.41
+-50.79	-49.96	-12.22
+-52.57	-31.75	21.86
+-37.12	-70.87	38.92
+		
+// Bohland et al 2006, H, syllable x sequence interaction, syllable sequences, speech production, visual		
+//Subjects=13		
+-36	-48	42
+		
+// Booth et al 2002, H, rhyme > meaning, words, button press, auditory/visual		
+//Subjects=13		
+-57	-21	39
+		
+// Booth et al 2002, H, V, phonology > visual perception, words, visual; V, phonology > pitch discrim, auditory		
+//Subjects=12		
+-27	-51	36
+42	-27	12
+-54	-18	-3
+		
+// Demonet et al 1992, H, phonemes > tones, nonwords, button press, auditory		
+//Subjects=9		
+-59.36	-11.1	2.01
+-57.24	-13.64	-2.26
+-55.07	-61.67	-10.99
+		
+// Desai et al 2006, H, irregular > regular verbs, words, speech production, visual		
+//Subjects=125		
+-45	-56	-4
+		
+// Devlin et al 2003, H, phonology > semantics, words, button press, visual		
+//Subjects=12		
+-50	-54	-20
+-50	-66	-10
+52	-56	-16
+52	-56	-26
+42	-58	-10
+		
+// Fiebach et al 2007, H, phonology > semantics, words, visual, working memory		
+//Subjects=12		
+49	-66	27
+		
+// Ghosh et al 2008, H, bisyllable > monosyllable, syllables, visual		
+//Subjects=10		
+70	-28	4
+-42	-64	-10
+		
+// Gold et al 2005, H, phonology > semantics, words, speech production, visual		
+//Subjects=32		
+-43	-41	38
+		
+// Gruber et al 2009, H, phonology > orthography, letter sequences, visual, working memory		
+//Subjects=18		
+-44	-40	40
+48	-40	40
+-28	-60	40
+-48	-56	-16
+		
+// Katzir et al 2005, phonology > visual perception, drawings of objects, button press, visual		
+//Subjects=12		
+-27	-60	42
+-60	-45	-3
+		
+// Kuo et al 2004, H, phonology > orthography, Chinese/Korean characters, button press, visual		
+//Subjects=10		
+-56.93	-41.96	16.22
+-44.05	-64.44	4.78
+-59.06	-43.89	18.69
+40.05	-65.38	-10
+		
+// Liu et al 2008, H, rhyme > tone discrimatination, two-character words, button press, auditory		
+//Subjects=16		
+-62	-24	4
+		
+// Lurito et al 2000, phonology > orthography/visual perception, words, button press, visual		
+//Subjects=5		
+-61.32	-55.57	8.68
+-59.22	-31.96	8.55
+-48.71	-54.93	-19.61
+-60.34	-47.58	2.27
+51.16	-46.59	18.2
+		
+// McDermott et al 2003, H, phonology (rhyme) > semantics, word lists, visual		
+//Subjects=20		
+48	-63	-6
+		
+// Mummery et al 1998, H, phonology (syllable number) > semantics, words, button press, visual		
+//Subjects=10		
+-58.85	-31.39	37.62
+		
+// Price et al 1997, H, V, phonology (syllable number) > semantics, words, button press, visual		
+//Subjects=6		
+-42	-44	36
+38	-48	40
+		
+// Scott et al 2003, H, phonology (syllable number) > semantics, words, button press, visual		
+//Subjects=9		
+-60	-26	39
+30	-59	41
+		
+// Seghier et al 2004, phonology (rhyme) > visual perception, words, button press, visual		
+//Subjects=26		
+-57	-34.83	12.16
+-58.2	-35.67	3.3
+-39.3	-46.96	42.19
+		
+// Specht et al 2003, H, pseudowords > tones/nonwords, words/tones, button press, visual/auditory		
+//Subjects=15		
+-64	-24	4
+60	-12	0
+		
+// Tyler et al 2005, H, regular > irregular words, words, button press, auditory		
+//Subjects=18		
+-56	-24	10
+-56	-48	8
+58	-14	2
+58	-28	4
+46	-42	34
+		
+// Xu et al 2001, H, phonology (rhyme) > visual perception, words/pseudowords, button press, visual		
+//Subjects=12		
+-48	-54	-14
+-34	-50	38
+		
+// Xu et al 2002, H, phonology (rhyme) > orthography, words/pseudowords, button press, visual		
+//Subjects=6		
+-54.63	-43.04	27.5
+-58.89	-42.64	32.01
+-45.92	-38.14	33.59
+		
+// Braun et al 1997, V, paced/auto speech > non-lexical speech, speech production, oral/auditory		
+//Subjects=20		
+-57.23	-33.2	-4.81
+-41.56	-68.52	29.8
+		
+// Heim et al 2002, V, phoneme production > rest, line drawings of objects, speech production, visual		
+//Subjects=12		
+-58.22	-15.04	5.74
+-40.76	-31.17	16
+		
+// Price et al 1996, V, repetition > rest, words, speech production, auditory; V, reading aloud > rest, words, speech production, auditory; V, repetition > listening, words, speech production, auditory		
+//Subjects=6		
+-56.95	-44.3	14.21
+-54.83	-35.78	13.34
+-59.29	-14.94	6.87
+51	-37.95	7.27
+55.05	-42.14	-14.8
+61.63	-21.73	-3.49
+-61.33	-44.73	9.85
+55.38	-52.83	8.66
+51	-37.95	7.27
+-54.82	-37.91	13.55
+-63.57	-25.59	7.99
+55.39	-39.65	11.84
+66.06	-20.88	5.32
+		
+// Warburton et al 1996, V, covert repetition > rest, pseudowords, auditory; V, covert repetition > verb generation, pseudowords, auditory		
+//Subjects=6		
+-48.45	-34.36	5.24
+-50.77	-44.33	-9.42
+61.7	-32.16	-0.21
+-46.32	-25.84	4.36
+59.58	-42.8	0.88
+		
+// Wildgruber et al 2001, V, covert phoneme production > rest, C-V syllable, auditory		
+//Subjects=10		
+-60.47	-17.9	-1.78
+		
+// Calvert et al 1999, V, covert repetition > rest, numbers 1-10, auditory/visual		
+//Subjects=5		
+-48.26	-71.27	12.25
+54.28	-65.05	4.29
+54.32	-57.08	9.1
+62.89	-20.37	10.93
+-48.38	-23.96	13.18
+		
+// Beauregard et al 1997, V, random letters (viewing) > rest, uppercase letters, visual		
+//Subjects=10		
+-61.51	-38.43	-3.1
+-57.34	-50.5	-17.66
+		
+// Joanisse & Gati 2003, V, syllables > non-speech tones, C-V syllables, button press, auditory		
+//Subjects=7		
+-59.33	-21.84	1.95
+59.69	-46.33	9.07
+57.35	-24.73	-0.88
+		
+// Paulesu et al 2000, V, nonwords > words (read aloud), speech production, visual; V, reading > rest, words/nonwords, speech production, visual		
+//Subjects=78		
+-50.66	-61.04	-4.41
+-55.09	-64.01	-13
+-57.37	-56.13	-20.47
+-50.83	-46.98	-14.76
+-63.47	-51.12	10.52
+-53.05	-62.7	-22.13
+		
+// Poeppel et al 2004, V, phonemes (categorising) > tones (direction discrimination, button press, auditory; V, phonemes (categorising) > words (lexical decision), button press, auditory; V, phonemes (categorising) > rest, button press, auditory		
+//Subjects=10		
+-63.76	-18.33	-6.17
+-50.69	-48.06	-3.45
+48.98	-74.12	10.88
+47.01	-48.65	30.8
+-61.47	-23.87	3.31
+-50.56	-36.18	8.82
+53.13	-29.44	6.39
+63.87	-27.69	1.55
+59.67	-44.3	7.75
+		
+// Belin & Zatorre 2003, V, syllable listening > rest, spoken syllables, auditory		
+//Subjects=14		
+-41.82	-31.07	17.13
+53.11	-16.46	7.34
+		
+// Hugdahl et al 2003, V, attend vowels > rest, vowels/phonemes/words, button press, auditory; V, attend pseudowords > rest, vowels/phonemes/words, button press, auditory		
+//Subjects=13		
+65.94	-19.58	-3.77
+65.94	-19.58	-3.77
+-59.18	-27.29	12.57
+		
+// Jancke et al 2002, V, syllables > tones (passive listening), C-V syllables, auditory; V, syllables > vowels (passive listening), C-V syllables, auditory; V, syllables voiceless > syllables voiced (passive listening), C-V syllables, auditory		
+//Subjects=6		
+-60	-24	8
+52	-28	8
+56	-28	4
+44	-28	12
+-48	-32	12
+-40	-36	16
+-56	-24	8
+-44	-28	12
+-44	-24	0
+		
+// Herbster et al 1997, V, irregular words > "hiya" to random letter strings, word/letter strings, speech production, visual		
+//Subjects=10		
+-63.71	-17.92	-1.73
+		
+// Kotz et al 2002, V, pseudowords > words, word/pseudoword pairs, button press, auditory		
+//Subjects=13		
+-59.25	-21.22	8.61
+		
+// Meyer et al 2002, V, pseudospeech > normal speech (tense judgement), sentences, button press, auditory; V, pseudospeech > prosodic speech (tense judgement), sentences, button press, auditory		
+//Subjects=14		
+48.83	-23.82	9.27
+-47.41	-19.36	4.86
+		
+// Binder et al 2000, V, pseudowords > tones, button press, auditory; V, reversed syllables > tones, button press, auditory		
+//Subjects=28		
+-55.96	-43.85	7.43
+-60.35	-33.44	4.23
+-57.19	-26.4	-1
+61.72	-29.82	1.8
+-64.67	-33.46	4.31
+-59.35	-24.18	-0.06
+63.88	-29.81	1.76
+		
+// Cappa et al 1998, V, pseudowords (detect phoneme) > rest, button press, visual		
+//Subjects=13		
+-48.72	-56.1	-20.62
+50.67	-55.75	-22.34
+		
+// Fiez et al 1996, V, words (passive listening) > rest, auditory; V, pseudowords (passive listening) > rest, auditory		
+//Subjects=3		
+-53.58	-55.36	21.97
+-53.56	-55.16	24.2
+		
+// Hickok et al 2003, V, pseudowords > rest, sentences, speech production, auditory		
+//Subjects=9		
+-47.3	-55.73	6.22
+-62.58	-30.67	-0.49
+-47.3	-56.79	6.32
+-62.52	-32.39	4.17
+		
+// Heim et al 2003, V, phonology (phoneme judgement) > semantics, line drawings, button press, visual; V, phonology (vowel judgement) > semantics, line drawings, button press, visual		
+//Subjects=8		
+-51.28	-52.09	33.94
+-51.75	-45.73	-1.42
+-54.68	-43.46	23.06
+		
+// Bunge et al 2001, V, memory load x susceptibility interaction, letter arrays, button press, visual, working memory		
+//Subjects=23		
+-54.92	-40.87	4.88
+		
+// Paulesu et al 1993, V, phonology (rhyme) > orthography, letters, visual, working memory		
+//Subjects=6		
+-46.03	-30.25	26.09
+59.84	-29.88	24.24
+-48.3	-31.09	17.24
+55.39	-26.47	15.02
+		
+// Rypma et al 1999, V, high > low memory load, letters, button press, visual, working memory; V, middle > low memory load, letters, button press, visual, working memory		
+//Subjects=6		
+-30.71	-51.7	36.91
+-56.08	-30.55	0.51
+-60.21	-54.3	10.78
+-51.73	-58.7	-2.38
+61.67	-46.6	-5.51
+57.32	-39.18	-6.17
+-50.65	-40.1	1.36
+		
+// Belin et al 2000, V, vocal > non-vocal sounds (listening passively), auditory		
+//Subjects=8		
+57.28	-18.66	-4.84
+61.75	-29.61	4.02
+51	-44.54	5.68
+-41.84	-36.7	14.33
+
+		
+//Bouhali et al 2019, pseudowords > words (lexical decision & reading), visual, button press		
+//Subjects=20		
+58	-30	0
+		
+//Kwok et al 2019, tone > font size judgement, disyallabic words		
+//Subjects=17		
+-29.6	-52.55	39.22
+		
+//Kim et al 2017, phonological > logographic reading, visual (semantics/meaningful stimuli)		
+//Subjects=24		
+-44	-76	32
+56	-64	20
+62	-26	-18
+		
+//Hoffman et al 2015, reading real words > saying "ok" to letter strings, visual (semantic/meaningful stimuli)		
+//Subjects=26		
+-42	-36	-26
+-46	-46	4
+-52	-58	4
+-64	-36	32
+		
+//Tzourio-Mazoyer et al 2015, passive listening > viewing scrambled drawings, auditory (semantic/meaningful stimuli)		
+//Subjects=281		
+-48	-16	4
+-46	-20	6
+-56	-18	-2
+-62	-32	6
+-56	-50	8
+-40	-44	42
+50	-10	2
+52	-26	6
+54	-14	6
+		
+//Salo et al 2015, vowel judgement > gender/font colour judgement, CV syllables or letters, auditory + visual		
+//Subjects=15		
+-46	-64	-10
+		
+//Rao & Singh 2015, low > high frequency words, speak aloud, visual (semantic/meaningful stimuli)		
+//Subjects=14		
+-48	-24	26
+-54	-28	38
+		
+//Diaz et al 2014, phonologically related > unrelated/semantic distractors, naming objects from line drawings, visual		
+//Subjects=16		
+-50	-46	40
+-60	-40	28
+52	-58	34
+56	-58	26
+54	-46	36
+-48	-38	26
+-52	-26	8
+64	-30	34
+62	-22	36
+64	-24	42
+		
+//Hernandez et al 2013, rhyme judgement > font matching, pairs of French words, visual 		
+//Subjects=16		
+-56	-48	-14
+		
+//Danelli et al 2013, psuedoword reading > passive viewing of lines, visual, button press; auditory rhyming > tone discrimination, pairs of letters, auditory, button press		
+//Subjects=28		
+-64	-38	-6
+-50	-54	-18
+-58	-34	-4
+-50	-54	-22
+58	-36	-2
+		
+//Yoo et al 2012, repetition + perceptual judgement > rest, ambiguous psueudoword/word splices, auditory/visual		
+//Subjects=22		
+56.31	-22.19	3.37
+60.57	-48.94	-7.5
+		
+//Peyrin et al 2012, rhyme judgement > fixation, letters, visual, button press		
+//Subjects=14		
+-44.26	-62.7	-11.08
+-27.39	-60.95	41.13
+		
+//Prado et al 2011, rhyme judgement > visual perception task, pairs of words, visual, button press (meaningful stimuli?)		
+//Subjects=26		
+-48	-44	-4
+		
+//Perrone-Bertolotti et al 2011, phoneme monitoring > visual detection, pseudowords, visual, button press		
+//Subjects=22		
+-54.05	-54.43	-13.97
+-60.29	-39.51	8.19
+		
+//Kircher et al 2011, verbal fluency (from letter + rhyme/pseudoword) > rest, speak aloud, visual		
+//Subjects=15		
+67.01	-22.98	-5.69
+58.56	-32.5	7.72
+57.24	-26.62	-9.65
+-50.64	-59.76	-2.29
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

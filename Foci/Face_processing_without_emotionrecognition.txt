@@ -1,0 +1,119 @@
+// Hessl et al 2007, emotional, fearful > scrambled, implicit; neutral, neutral > scrambled, implicit		
+//Subjects=13		
+65.86	-35.51	-13.4
+-44.11	-58.26	1.93
+48.47	-51.71	-24.95
+		
+// Andersson et al 2008, neutral, faces > houses, explicit, button press		
+//Subjects=16		
+-39	-36	-27
+48	-39	-24
+		
+// Bird et al 2006, mixed, faces > houses, implicit		
+//Subjects=16		
+46	-74	-10
+-50	-70	2
+		
+// Iidaka et al 2001, mixed, faces > shapes, implicit, button press		
+//Subjects=12		
+36.38	-64.88	41.55
+		
+// Iidaka et al 2002, emotional, faces > shapes, implicit, button press		
+//Subjects=12		
+48	-62	-24
+		
+// Rossion et al 2012, neutral, faces > scrambled, explicit; neutral, faces > objects, explicit		
+//Subjects=40		
+52.26	-57.43	17.01
+51.04	-39.87	9.7
+44.21	-46.85	-18.63
+53.2	-48.58	8.28
+		
+// Slotnick et al 2013, neutral, faces > objects, implicit		
+//Subjects=12		
+48.91	-73.58	5.22
+52.17	-56.99	10.25
+-51.54	-57.35	12.05
+		
+// Johnston et al 2005, mixed, faces > shapes, implicit, button press		
+//Subjects=10		
+52.14	-72.5	5.06
+53.05	-35.48	-0.86
+		
+// Maurer et al 2007, mixed, faces > houses, implicit		
+//Subjects=12		
+-48	-52	0
+		
+// Pourtois et al 2005a, neutral, faces > houses, explicit, button press		
+//Subjects=14		
+-45	-51	-27
+54	-72	-3
+51	-54	6
+		
+// Ramirez-Ruiz et al 2008, neutral, faces > patterns, explicit, button press		
+//Subjects=10		
+53.49	-60.64	28.52
+-51.44	-57.69	19.93
+48.68	-70.88	-11.85
+49	-75.08	12.09
+-51.53	-68.2	10.88
+		
+// Bukowski et al 2013, neutral, faces > scrambled + cars, explicit, button press		
+//Subjects=11		
+55.46	-50.08	15.11
+-58.09	-51.31	8.2
+		
+// Ethofer et al 2013, neutral, faces > houses + objects + scenes, explicit, button press		
+//Subjects=23		
+45	-57	18
+-45	-63	15
+		
+// Pegors et al 2015, neutral, faces > places, implicit, button press		
+//Subjects=28		
+-58	-64	26
+56	-60	24
+		
+// Koppe et al 2015, emotional, angry faces > shapes, implicit, button press		
+//Subjects=30		
+39	-46	-17
+57	-40	-2
+		
+// Opmeer et al 2016, mixed, faces > scrambled, implicit, button press		
+//Subjects=32		
+-39	-42	-18
+		
+// Frässle et al 2016, neutral, faces > scrambled, implicit		
+//Subjects=20		
+50	-74	0
+56	-42	26
+		
+// Schultz et al 2009, emotional, faces > scrambled, implicit, button press		
+//Subjects=10		
+51	-48	21
+		
+// Bonner-Jackson et al 2005, neutral, faces > words, implicit, button press		
+//Subjects=26		
+-42.25	-45.23	-19.56
+		
+// Hasson et al 2002, neutral, faces > letter strings + buildings, implicit		
+//Subjects=13		
+-39.31	-47.06	41.08
+45.54	-67.93	-3.12
+39.96	-50.7	-13.7
+		
+// Kranz & Ishai 2006, mixed, faces > scrambled, implicit, button press		
+//Subjects=40		
+-51.61	-45.69	9.33
+51.21	-41.37	6.26
+		
+// Pierce et al 2004, neutral, unfamiliar faces > fixation, implicit, button press		
+//Subjects=9		
+41.11	-57.83	-9.65
+		
+// Platek et al 2006, neutral, familiar > unfamiliar, explicit, button press		
+//Subjects=12		
+55.25	-47.28	-0.85
+		
+// Williams et al 2005, mixed, faces > houses, implicit, button press		
+//Subjects=13		
+56	-54	16
