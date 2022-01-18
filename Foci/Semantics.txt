@@ -224,7 +224,7 @@
 -53	-44	-1
 -63	-29	-16
    		
-// Tieleman et al (2005) Verbal Visual semantic categorization (animal/object) task > perceptual (small/capital letter string) categorization		
+// Tieleman et al (2005) Verbal Visual semanticÂ categorizationÂ (animal/object) task > perceptual (small/capital letter string) categorization		
 //Subjects=22		
 -53	-42	3
 -38	-47	-17
@@ -921,7 +921,7 @@
 -54	-38	2
 52	-18	-6
     		
-// Chouinard, PA; Morrissey, BF; Kohler, S; Goodale, MA 2008 nonverbal visual naming intact objects > counting scrambled objects		
+// Chouinard, PA; Morrissey, BF; Kohler, S; Goodale, MA 2008 nonverbal visual naming intact objectsÂ >Â counting scrambled objects		
 //Subjects=14		
 -38	-42	-18
 -54	-58	-18
