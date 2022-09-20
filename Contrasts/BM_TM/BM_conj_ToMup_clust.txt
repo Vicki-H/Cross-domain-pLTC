@@ -1,0 +1,88 @@
+Mask:
+Reference Space               = MNI152
+Dimensions                    = 91x109x91
+Number of within-brain voxels = 262245
+Mask Size                     = Less Conservative (Larger)
+
+Foci:
+Coordinate System             = MNI
+Data Set 1 Input Image        = BM_ROI_notools_p001_C05_10k_ALE.nii
+Data Set 1 Non-Zero Voxels    = 986
+Number of foci                = 223
+Number of experiments         = 53
+Total number of subjects      = 631
+Data Set 2 Input Image        = ToMupdated_ROI_p001_C05_10k_ALE.nii
+Data Set 2 Non-Zero Voxels    = 1917
+Number of foci                = 502
+Number of experiments         = 152
+Total number of subjects      = 4088
+Pooled Data Input Image       = BMnotoolsandToMupdated_ROI_p001_C05_10k_ALE.nii
+Pooled Data Non-Zero Voxels   = 2214
+Number of foci                = 725
+Number of experiments         = 205
+Total number of subjects      = 4719
+
+ALE - Random Effects, Turkeltaub Non-Additive (HBM, 2012):
+File of ALE voxels            = BM_conj_ToMup_ALE.nii
+FWHM minimum value            = 8.448905598137518
+FWHM median value             = 9.380085631017138
+FWHM maximum value            = 12.00015700529694
+Maximum Conjunction ALE score = 0.04618338
+
+Cluster Analysis:
+ #1: 976 mm^3 from (48,-62,10) to (62,-44,16) centered at (55,-52.6,12.5) with 2 peaks
+     with a max value of 0.0462 ALE at (54,-52,10) 
+   Labels: (Gray Matter only)
+     Hemisphere: 100% Right Cerebrum
+     Lobe: 100% Temporal Lobe
+     Gyrus: 63.6% Superior Temporal Gyrus, 36.4% Middle Temporal Gyrus
+     Cell Type: 70.5% Brodmann area 39, 29.5% Brodmann area 22
+
+ #2: 8 mm^3 at (-50,-64,14) with 1 peaks
+     with a max value of 0.0298 ALE at (-50,-64,14) 
+   Labels: (Gray Matter only)
+     null
+     null
+     null
+     null
+
+ #3: 8 mm^3 at (-48,-62,14) with 1 peaks
+     with a max value of 0.0279 ALE at (-48,-62,14) 
+   Labels: (Gray Matter only)
+     null
+     null
+     null
+     null
+
+
+Experiment Table:
+[ 0 0 0 0 2 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 ]
+[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ]
+[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 ]
+
+Contributors to cluster #1
+2 foci from Grossman and Blake 2002, body, PLD, > non-bio scrambled motion, MRI, button press		  
+1 foci from Jung et al 2009, body, PLD, > non-bio scrambled motion, button press, MRI		  
+1 foci from Peuskens et al 2005, body, PLD, > non-bio scrambled motion, MRI		  
+1 foci from Saygin et al 2004, body, PLD, > non-bio scrambled motion, button press, MRI		  
+1 foci from Chong et al 2008, hand w/ object, grasping, > non-bio static, MRI		  
+1 foci from Filimon et al 2007, hand w/ object, grasping, > non-bio static, MRI		  
+1 foci from Shmuelof et al 2005, hand w/ object, hand manipulating objects, > bio motion scrambled?, MRI		  
+1 foci from Lee et al 2009, face, turning heads, > bio scrambled motion, button press, MRI		  
+1 foci from Hooker et al 2003, eye, moving gaze, > bio static + non-bio motion, button press, MRI		  
+1 foci from Thompson et al 2007, mouth, opening/closing, > non-bio motion, MRI		  
+1 foci from Adams et al 2010, affective, explicit, photos, button press, mental state > gender judgement, faces		  
+1 foci from Contreras et al 2013 (1), cognitive, explicit, photographs, button press, mental > physical judgement (individuals), bodies; (2), cognitive, explicit, photographs, button press, mental > physical judgement (groups), bodies		  
+1 foci from German et al 2004, cognitive, implicit, videos, button press, pretend > real actions, bodies		  
+1 foci from Lombardo et al 2010, cognitive, explicit, reading, [output], mentalising > physical judgements about others		  
+2 foci from Roser et al 2012, cognitive, explicit, cartoons, think about answer, ToM > non-ToM questions 		  
+2 foci from Walter et al 2004 (1), cognitive, implicit, cartoons, button press, communicative intention > physical causality; (3), cognitive, implicit, cartoons, button press, private intention > physical causality		  
+1 foci from //Cole et al 2019, video clips, infer intention > judge success of an action		  
+1 foci from //Hennion et al 2016, animated shapes task, ToM > goal-directed & random movements		  
+1 foci from //Moessnang et al 2016, animated shapes task, ToM > goaldirected movement		  
+1 foci from //Kirkovski et al 2016, animated shapes task, ToM > goal directed/random movement & rest		  
+
+Contributors to cluster #2
+
+Contributors to cluster #3
+1 foci from //Specht & Wigglesworth 2018, story ending judgement, ToM story continuation > cartoon matching		  

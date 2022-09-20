@@ -1,0 +1,78 @@
+Mask:
+Reference Space               = MNI152
+Dimensions                    = 91x109x91
+Number of within-brain voxels = 262245
+Mask Size                     = Less Conservative (Larger)
+
+Foci:
+Coordinate System             = MNI
+Data Set 1 Input Image        = BM_ROI_notools_p001_C05_10k_ALE.nii
+Data Set 1 Non-Zero Voxels    = 986
+Number of foci                = 223
+Number of experiments         = 53
+Total number of subjects      = 631
+Data Set 2 Input Image        = Toolsstatic_ROI_p001_C05_10k_ALE.nii
+Data Set 2 Non-Zero Voxels    = 469
+Number of foci                = 116
+Number of experiments         = 41
+Total number of subjects      = 562
+Pooled Data Input Image       = BMnotoolsandToolsstatic_ROI_p001_C05_10k_ALE.nii
+Pooled Data Non-Zero Voxels   = 1193
+Number of foci                = 339
+Number of experiments         = 94
+Total number of subjects      = 1193
+
+ALE - Random Effects, Turkeltaub Non-Additive (HBM, 2012):
+File of ALE voxels            = BM_conj_Tools_ALE.nii
+FWHM minimum value            = 9.056468275459084
+FWHM median value             = 9.755397007122182
+FWHM maximum value            = 12.00015700529694
+Maximum Conjunction ALE score = 0.02103277
+
+Cluster Analysis:
+ #1: 24 mm^3 from (-54,-66,4) to (-50,-66,4) centered at (-52,-66,4) with 1 peaks
+     with a max value of 0.021 ALE at (-52,-66,4) 
+   Labels: (Gray Matter only)
+     null
+     null
+     null
+     null
+
+ #2: 24 mm^3 from (-54,-64,6) to (-50,-64,6) centered at (-52,-64,6) with 1 peaks
+     with a max value of 0.021 ALE at (-52,-64,6) 
+   Labels: (Gray Matter only)
+     null
+     null
+     null
+     null
+
+ #3: 16 mm^3 from (-52,-68,2) to (-50,-68,2) centered at (-51,-68,2) with 1 peaks
+     with a max value of 0.0196 ALE at (-50,-68,2) 
+   Labels: (Gray Matter only)
+     Hemisphere: 100% Left Cerebrum
+     Lobe: 100% Occipital Lobe
+     Gyrus: 100% Inferior Temporal Gyrus
+     Cell Type: 100% Brodmann area 37
+
+ #4: 8 mm^3 at (-50,-62,8) with 1 peaks
+     with a max value of 0.0196 ALE at (-50,-62,8) 
+   Labels: (Gray Matter only)
+     null
+     null
+     null
+     null
+
+
+Experiment Table:
+[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ]
+[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ]
+[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ]
+[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ]
+
+Contributors to cluster #1
+
+Contributors to cluster #2
+
+Contributors to cluster #3
+
+Contributors to cluster #4

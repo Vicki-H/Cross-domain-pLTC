@@ -1,0 +1,64 @@
+Mask:
+Reference Space               = MNI152
+Dimensions                    = 91x109x91
+Number of within-brain voxels = 262245
+Mask Size                     = Less Conservative (Larger)
+
+Foci:
+Coordinate System             = MNI
+Data Set 1 Input Image        = SC_ROI_p001_C05_10k_ALE.nii
+Data Set 1 Non-Zero Voxels    = 593
+Number of foci                = 104
+Number of experiments         = 41
+Total number of subjects      = 808
+Data Set 2 Input Image        = BM_ROI_notools_p001_C05_10k_ALE.nii
+Data Set 2 Non-Zero Voxels    = 986
+Number of foci                = 223
+Number of experiments         = 53
+Total number of subjects      = 631
+Pooled Data Input Image       = BMnotoolsandSC_ROI_p001_C05_10k_ALE.nii
+Pooled Data Non-Zero Voxels   = 886
+Number of foci                = 327
+Number of experiments         = 94
+Total number of subjects      = 1439
+
+ALE - Random Effects, Turkeltaub Non-Additive (HBM, 2012):
+File of ALE voxels            = SC-BM_ALE.nii
+FWHM minimum value            = 8.825899580135088
+FWHM median value             = 9.501798304955097
+FWHM maximum value            = 12.00015700529694
+Minimum B>A ALE score         = -0.033237495
+Maximum B>A ALE score         = 0.033237495
+Permutations                  = 10000
+
+P Values: Eickhoff (HBM, 2009)
+File of P values              = BM-SC_10k_P.nii
+
+Thresholding:
+Threshold Method              = Uncorrected P value
+Chosen P value threshold      = 0.001
+Volume > Threshold            = 1632 mm^3
+Chosen min. cluster size      = 20 mm^3
+Thresholded ALE image         = SC-BM_10k-p001_Z.nii
+
+Cluster Analysis:
+ #1: 1632 mm^3 from (-60,-60,-16) to (-44,-34,4) centered at (-52.7,-45.7,-5.4) with 3 peaks
+     with a max value of 0.0 P, 3.89 Z at (-53.4,-40.7,-3.3) 
+   Labels: (Gray Matter only)
+     Hemisphere: 100% Left Cerebrum
+     Lobe: 69.2% Temporal Lobe, 30.8% Occipital Lobe
+     Gyrus: 30.8% Fusiform Gyrus, 23.1% Sub-Gyral, 23.1% Inferior Temporal Gyrus, 23.1% Middle Occipital Gyrus
+     Cell Type: 69.2% Brodmann area 37, 30.8% Brodmann area 19
+
+
+Experiment Table:
+[ 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 1 1 ]
+
+Contributors to cluster #1
+2 foci from Rodd, Jennifer M.; Johnsrude, Ingrid S.; Davis, Matthew H. 2012, auditory, verbal, ambiguity across time		  
+1 foci from  Hallam, Glyn P.; Whitney, Carin; Hymers, Mark; Gouws, Andre D.; Jefferies, Elizabeth, 2016, VERBAL, VISUAL, 		  
+1 foci from  Zhu, Zude; Hagoort, Peter; Zhang, John X.; Feng, Gangyi; Chen, Hsuan-Chih; Bastiaansen, Marcel; Wang, Suiping, 2012, VERBAL, VISUAL, incongruence/cloze probability parameter		  
+1 foci from  Bedny et al, 2008, VERBAL, VISUAL,  ambiguous >not		  
+1 foci from  Race et al. 2009, VERBAL, DIFFERENT>SAME ATTRIBUTE/reversed/novel decision > repeated		  
+1 foci from  Thompson schill et al. 1997, VERBAL, VISUaL, High > low selection (man>few poss responses)	/similar colour vs generally similar	  
+1 foci from Zempleni et al., 2007, verbal visual, ambiguous>unambiguous		  

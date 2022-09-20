@@ -1,0 +1,33 @@
+Mask:
+Reference Space               = MNI152
+Dimensions                    = 91x109x91
+Number of within-brain voxels = 262245
+Mask Size                     = Less Conservative (Larger)
+
+Foci:
+Coordinate System             = MNI
+Data Set 1 Input Image        = BM_ROI_notools_p001_C05_10k_ALE.nii
+Data Set 1 Non-Zero Voxels    = 986
+Number of foci                = 223
+Number of experiments         = 53
+Total number of subjects      = 631
+Data Set 2 Input Image        = Semanticsnotools_ROI_p001_C05_10k_ALE.nii
+Data Set 2 Non-Zero Voxels    = 1677
+Number of foci                = 580
+Number of experiments         = 204
+Total number of subjects      = 4225
+Pooled Data Input Image       = BMnotoolsandSemanticsnotools_ROI_p001_C05_10k_ALE.nii
+Pooled Data Non-Zero Voxels   = 1707
+Number of foci                = 803
+Number of experiments         = 257
+Total number of subjects      = 4856
+
+ALE - Random Effects, Turkeltaub Non-Additive (HBM, 2012):
+File of ALE voxels            = BM_conj_Sem_ALE.nii
+FWHM minimum value            = 8.568170968737778
+FWHM median value             = 9.437333897527274
+FWHM maximum value            = 12.00015700529694
+Maximum Conjunction ALE score = 0.0
+
+Cluster Analysis:
+No clusters found

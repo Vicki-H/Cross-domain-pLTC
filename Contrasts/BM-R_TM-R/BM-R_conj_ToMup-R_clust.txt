@@ -1,0 +1,78 @@
+Mask:
+Reference Space               = MNI152
+Dimensions                    = 91x109x91
+Number of within-brain voxels = 262245
+Mask Size                     = Less Conservative (Larger)
+
+Foci:
+Coordinate System             = MNI
+Data Set 1 Input Image        = BMnotools_nofaces_p001_C05_10k_ALE.nii
+Data Set 1 Non-Zero Voxels    = 793
+Number of foci                = 151
+Number of experiments         = 40
+Total number of subjects      = 484
+Data Set 2 Input Image        = ToMnofaces_updated_ROI_p001_C05_10k_ALE.nii
+Data Set 2 Non-Zero Voxels    = 1606
+Number of foci                = 384
+Number of experiments         = 122
+Total number of subjects      = 3268
+Pooled Data Input Image       = BMreducedandToMreduced_updated_ROI_p001_C05_10k_ALE.nii
+Pooled Data Non-Zero Voxels   = 1841
+Number of foci                = 535
+Number of experiments         = 162
+Total number of subjects      = 3752
+
+ALE - Random Effects, Turkeltaub Non-Additive (HBM, 2012):
+File of ALE voxels            = BM-R_conj_ToMup-R_ALE.nii
+FWHM minimum value            = 8.448905598137518
+FWHM median value             = 9.380085631017138
+FWHM maximum value            = 12.00015700529694
+Maximum Conjunction ALE score = 0.038600646
+
+Cluster Analysis:
+ #1: 552 mm^3 from (48,-64,8) to (60,-44,16) centered at (54.9,-52.4,11.8) with 3 peaks
+     with a max value of 0.0324 ALE at (50,-62,10) 
+   Labels: (Gray Matter only)
+     Hemisphere: 100% Right Cerebrum
+     Lobe: 100% Temporal Lobe
+     Gyrus: 61.9% Superior Temporal Gyrus, 38.1% Middle Temporal Gyrus
+     Cell Type: 71.4% Brodmann area 39, 28.6% Brodmann area 22
+
+ #2: 64 mm^3 from (48,-70,6) to (50,-66,10) centered at (49.3,-68.6,8.3) with 1 peaks
+     with a max value of 0.0386 ALE at (50,-70,6) 
+   Labels: (Gray Matter only)
+     Hemisphere: 100% Right Cerebrum
+     Lobe: 75% Temporal Lobe, 25% Occipital Lobe
+     Gyrus: 75% Middle Temporal Gyrus, 25% Middle Occipital Gyrus
+     Cell Type: 100% Brodmann area 37
+
+ #3: 16 mm^3 from (-46,-60,14) to (-46,-58,14) centered at (-46,-59,14) with 1 peaks
+     with a max value of 0.0218 ALE at (-46,-58,14) 
+   Labels: (Gray Matter only)
+     Hemisphere: 100% Left Cerebrum
+     Lobe: 100% Temporal Lobe
+     Gyrus: 100% Middle Temporal Gyrus
+     Cell Type: 100% Brodmann area 39
+
+
+Experiment Table:
+[ 0 0 0 0 2 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 ]
+[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ]
+[ 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ]
+
+Contributors to cluster #1
+2 foci from Grossman and Blake 2002, body, PLD, > non-bio scrambled motion, MRI, button press		  
+1 foci from Peuskens et al 2005, body, PLD, > non-bio scrambled motion, MRI		  
+1 foci from Chong et al 2008, hand w/ object, grasping, > non-bio static, MRI		  
+1 foci from Shmuelof et al 2005, hand w/ object, hand manipulating objects, > bio motion scrambled?, MRI		  
+1 foci from Roser et al 2012, cognitive, explicit, cartoons, think about answer, ToM > non-ToM questions 		  
+2 foci from Walter et al 2004 (1), cognitive, implicit, cartoons, button press, communicative intention > physical causality; (3), cognitive, implicit, cartoons, button press, private intention > physical causality		  
+1 foci from //Cole et al 2019, video clips, infer intention > judge success of an action		  
+1 foci from //Hennion et al 2016, animated shapes task, ToM > goal-directed & random movements		  
+1 foci from //Kirkovski et al 2016, animated shapes task, ToM > goal directed/random movement & rest		  
+
+Contributors to cluster #2
+1 foci from Sripada et al 2009, cognitive, implicit, game, button press, human > opponent		  
+
+Contributors to cluster #3
+1 foci from Grossman and Blake 2002, body, PLD, > non-bio scrambled motion, MRI, button press		  

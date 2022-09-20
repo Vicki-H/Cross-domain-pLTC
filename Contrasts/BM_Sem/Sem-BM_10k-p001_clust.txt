@@ -1,0 +1,138 @@
+Mask:
+Reference Space               = MNI152
+Dimensions                    = 91x109x91
+Number of within-brain voxels = 262245
+Mask Size                     = Less Conservative (Larger)
+
+Foci:
+Coordinate System             = MNI
+Data Set 1 Input Image        = Semanticsnotools_ROI_p001_C05_10k_ALE.nii
+Data Set 1 Non-Zero Voxels    = 1677
+Number of foci                = 580
+Number of experiments         = 204
+Total number of subjects      = 4225
+Data Set 2 Input Image        = BM_ROI_notools_p001_C05_10k_ALE.nii
+Data Set 2 Non-Zero Voxels    = 986
+Number of foci                = 223
+Number of experiments         = 53
+Total number of subjects      = 631
+Pooled Data Input Image       = BMnotoolsandSemanticsnotools_ROI_p001_C05_10k_ALE.nii
+Pooled Data Non-Zero Voxels   = 1707
+Number of foci                = 803
+Number of experiments         = 257
+Total number of subjects      = 4856
+
+ALE - Random Effects, Turkeltaub Non-Additive (HBM, 2012):
+File of ALE voxels            = Sem-BM_ALE.nii
+FWHM minimum value            = 8.568170968737778
+FWHM median value             = 9.437333897527274
+FWHM maximum value            = 12.00015700529694
+Minimum B>A ALE score         = -0.16975968
+Maximum B>A ALE score         = 0.16975968
+Permutations                  = 10000
+
+P Values: Eickhoff (HBM, 2009)
+File of P values              = BM-Sem_10k_P.nii
+
+Thresholding:
+Threshold Method              = Uncorrected P value
+Chosen P value threshold      = 0.001
+Volume > Threshold            = 3680 mm^3
+Chosen min. cluster size      = 20 mm^3
+Thresholded ALE image         = Sem-BM_10k-p001_Z.nii
+
+Cluster Analysis:
+ #1: 3224 mm^3 from (-66,-48,-10) to (-48,-28,6) centered at (-56.3,-37.6,-2.9) with 1 peaks
+     with a max value of 0.0 P, 3.89 Z at (-55.8,-37.3,-3.4) 
+   Labels: (Gray Matter only)
+     Hemisphere: 100% Left Cerebrum
+     Lobe: 100% Temporal Lobe
+     Gyrus: 69.5% Middle Temporal Gyrus, 30.5% Superior Temporal Gyrus
+     Cell Type: 45.8% Brodmann area 21, 40.7% Brodmann area 22
+
+ #2: 312 mm^3 from (-50,-72,26) to (-42,-68,34) centered at (-45.7,-70.1,29.3) with 1 peaks
+     with a max value of 4.0E-4 P, 3.35 Z at (-43.6,-70.8,29.2) 
+   Labels: (Gray Matter only)
+     null
+     null
+     null
+     null
+
+ #3: 144 mm^3 from (-50,-50,-14) to (-44,-46,-10) centered at (-47,-47.7,-12.5) with 1 peaks
+     with a max value of 0.0 P, 3.89 Z at (-48,-46,-12) 
+   Labels: (Gray Matter only)
+     Hemisphere: 100% Left Cerebrum
+     Lobe: 100% Temporal Lobe
+     Gyrus: 100% Sub-Gyral
+     Cell Type: 100% Brodmann area 37
+
+
+Experiment Table:
+[ 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 2 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 1 1 1 1 0 0 0 0 0 4 0 0 0 0 0 1 0 0 0 1 0 0 2 0 0 0 0 0 0 0 0 2 1 1 1 0 0 0 2 0 0 1 0 0 0 2 0 0 0 1 0 0 0 0 1 0 0 4 0 0 0 0 1 0 0 0 1 0 0 0 2 0 0 0 0 1 0 0 1 1 1 0 0 0 0 1 0 1 0 0 0 0 0 0 2 1 0 1 0 0 0 0 1 0 0 3 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0 1 0 0 2 0 ]
+[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ]
+[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ]
+
+Contributors to cluster #1
+1 foci from Gesierich et al., 2012 nonverbal VISUAL Familiar > unfamiliar/scrambled faces		  
+1 foci from Homae et al., 2003 VERBAL AUDITORY Auditory sentences> jumbled aka Sa>Pa		  
+1 foci from von Kriegstein et al., 2003 VERBAL AUDITORY sentence> speech envelope		  
+1 foci from Davis et al., 2004 VERBAL VISUAL words> letter strings		  
+1 foci from Devlin et al., 2002 VERBAL VISUAL sem categorisation (both animate + inanimate) > letter categorisaion		  
+1 foci from Binder et al., 2003 VERBAL VISUAL word>nonword		  
+1 foci from Farias et al (2005) Verbal Auditory Why an action was performed > what the action was		  
+1 foci from Farias et al (2005) nonverbal visual Why an action was performed > what the action was		  
+2 foci from Tieleman et al (2005) Verbal Visual semanticýcategorizationý(animal/object) task > perceptual (small/capital letter string) categorization		  
+1 foci from Thierry et al (2006) nonverbal auditory aud sounds>scrambled		  
+1 foci from Thierry et al (2006) verbal visual visual words>distorted		  
+1 foci from Thierry et al (2006) verbal visual visual videos>distorted		  
+1 foci from Elfgren et al (2006) Non-Verbal Visual Familiar > unfamiliar faces during identification		  
+1 foci from Sugiura et al (2008) Verbal visual Familiar > unfamiliar		  
+1 foci from Nielson et al (2010) Verbal & Nonverbal Visual Familiar > unfamiliar		  
+1 foci from Brambati et al (2010) Non-Verbal Visual Specific judgement of occupation from faces		  
+4 foci from Matchin, William; Hammerly, Christopher; Lau, Ellen 2017 VERBAL VISUAL SENTENCES>LISTS/phrases/jabberwocky		  
+1 foci from Haberling, Isabelle S.; Corballis, Paul M.; Corballis, Michael C. 2016 VERBAL VISUAL synonyms>letter strings		  
+1 foci from Rogalsky, Corianne; Almeida, Diogo; Sprouse, Jon; Hickok, Gregory 2015 VERBAL AUDITORY words>scrambled		  
+2 foci from Kyong, Jeong S.; Scott, Sophie K.; Rosen, Stuart; Howe, Timothy B.; Agnew, Zarinah K.; McGettigan, Carolyn 2014 VERBAL AUDITORY intelligibility		  
+2 foci from Zekveld, Adriana A.; Rudner, Mary; Johnsrude, Ingrid S.; Heslenfeld, Dirk J.; Ronnberg, Jerker 2012 VERBAL AUDITORY intelligibility		  
+1 foci from Visser, Maya; Jefferies, Elizabeth; Embleton, Karl V.; Ralph, Matthew A. Lambon 2012 VERBAL&NONVERBAL VISUAL SEMANTIC>CONTROL		  
+1 foci from Visser, Maya; Jefferies, Elizabeth; Embleton, Karl V.; Ralph, Matthew A. Lambon 2012 NONVERBAL VISUAL PICTURE>CONTROL		  
+1 foci from Visser, Maya; Jefferies, Elizabeth; Embleton, Karl V.; Ralph, Matthew A. Lambon 2012 VERBAL VISUAL WORD>CONTROL		  
+2 foci from Carota, Francesca; Moseley, Rachel; Pulvermueller, Friedemann 2012 VERBAL VISUAL  WORDS/HASH MARK STRINGS		  
+1 foci from Welcome, Suzanne E.; Joanisse, Marc F. 2012 VERBAL VISUAL WORD MEANING>WORD RHYME/WORD CASE		  
+2 foci from Seghier, Mohamed L.; Josse, Goulven; Leff, Alexander P.; Price, Cathy J. 2011 verbal & nonverbal visual SEM>PERCEPTUAL MATCHING ON MEANINGLESS STIMULI		  
+1 foci from Rodd, Jennifer M.; Longe, Olivia A.; Randall, Billi; Tyler, Lorraine K. 2010 VERBAL AUDITORY speech>SCN		  
+1 foci from Alain, C; He, Y; Grady, C 2008 verbal auditory CATEGORY>LOCATION JUDGEMENT		  
+4 foci from Boulenger, V; Hauk, O; Pulvermuller, F 2009 VERBAL VISUAL SENTENCES>HASHMARKS		  
+1 foci from Schuil, Karen D. I.; Smits, Marion; Zwaan, Rolf A. 2013 VERBAL VISUAL SENTENCES>NONWORDS		  
+1 foci from Groussard, M.; Viader, F.; Hubert, V.; Landeau, B.; Abbas, A.; Desgranges, B.; Eustache, F.; Platel, H. 2010 VERBAL VISUAL Verbal semantic>verbal reference		  
+2 foci from Chan, ST; Tang, SW; Tang, KW; Lee, WK; Lo, SS; Kwong, KK 2009 verbal visual SYNonyms > PSEUDOCHARACTERS/known language		  
+1 foci from Marques, JF; Canessa, N; Cappa, S 2009 verbal visual sentence>crosses		  
+1 foci from Emmorey, Karen; Weisberg, Jill; McCullough, Stephen; Petrich, Jennifer A. F. 2013 verbal visual words>false font		  
+1 foci from Matchin 2019 verbal visual phrase >list		  
+1 foci from Zou, Lijuan; Packard, Jerome L.; Xia, Zhichao; Liu, Youyi; Shu, Hua 2016 verbal auditory speech > tone		  
+1 foci from Sachs, O; Weis, S; Krings, T; Huber, W; Kircher, T 2008 verbal visual relations>letters		  
+1 foci from Obleser, J; Eisner, F; Kotz, SA 2008 verbal auditory comprehension modulation in vocoded speech		  
+2 foci from Chow, HM; Kaup, B; Raabe, M; Greenlee, MW 2008 verbal words>pseudowords		  
+1 foci from Moseley, Rachel; Carota, Francesca; Hauk, Olaf; Mohr, Bettina; Pulvermueller, Friedemann 2012 verbal visual words>hashmarks		  
+1 foci from Chang 2019 verbal visual words>maths		  
+1 foci from Schmitt 2019 verbal auditory intelligible (german/alemannic) > unintelligible lang (vietnamese)		  
+3 foci from Bick, A; Goelman, G; Frost, R 2008 verbal visual SEM TASK>VISUAL CONTROL/words>pseudowords		  
+1 foci from Herve, Pierre-Yves; Razafimandimby, Annick; Vigneau, Mathieu; Mazoyer, Bernard; Tzourio-Mazoyer, Nathalie 2012 verbal auditory emotional judgement >grammar judgement		  
+1 foci from Snijders, TM; Vosse, T; Kempen, G; Van Berkum, JJA; Petersson, KM; Hagoort, P 2009 verbal VISUAL SENTENCES>WORD sequences		  
+1 foci from Sun, Kaibao; Xue, Rong; Zhang, Peng; Zuo, Zhentao; Chen, Zhongwei; Wang, Bo; Martin, Thomas; Wang, Yi; Chen, Lin; He, Sheng; Wang, Danny J. J. 2017 verbal visual semantic>orthography		  
+1 foci from McGettigan, Carolyn; Faulkner, Andrew; Altarelli, Irene; Obleser, Jonas; Baverstock, Harriet; Scott, Sophie K. 2012 verbal auditory & visual intelligibilty 		  
+1 foci from Guediche, Sara; Reilly, Megan; Santiago, Carolina; Laurent, Patryk; Blumstein, Sheila E. 2016 verbal auditory intelligibility from cueing/repetition		  
+1 foci from Chou, TL; Chen, CW; Wu, MY; Booth, JR 2009 verbal visual sem semantic >perceptual task		  
+1 foci from Davis, Matthew H.; Ford, Michael A.; Kherif, Ferath; Johnsrude, Ingrid S. 2011 verbal auditory intelligibility parameter		  
+1 foci from Van Ettinger-Veenstra, Helene; McAllister, Anita; Lundberg, Peter; Karlsson, Thomas; Engstrom, Maria 2016 verbal visual reading>symbol baseline		  
+2 foci from Adank, Patti; Davis, Matthew H.; Hagoort, Peter 2012 verbal auditory clear>noisy speech (intelligbility)		  
+
+Contributors to cluster #2
+1 foci from Bruffaerts, Rose; Dupont, Patrick; Peeters, Ronald; De Deyne, Simon; Storms, Gerrit; Vandenberghe, Rik 2013 VERBAL&NONVERBAL VISUAL pics + words > scrambled pics & consonants		  
+1 foci from Vignali 2019 VERBAL VISUAL WORDS>PSEUDOWORDS		  
+1 foci from Raettig, T; Kotz, SA 2008 verbal auditory words>pseudowords		  
+1 foci from Weiss, Yael; Katzir, Tami; Bitan, Tali 2015 verbal visual words>asterisks/say pass		  
+
+Contributors to cluster #3
+1 foci from Seghier, Mohamed L.; Josse, Goulven; Leff, Alexander P.; Price, Cathy J. 2011 verbal & nonverbal visual SEM>PERCEPTUAL MATCHING ON MEANINGLESS STIMULI		  
+1 foci from Zou, Lijuan; Packard, Jerome L.; Xia, Zhichao; Liu, Youyi; Shu, Hua 2016 verbal auditory speech > tone		  

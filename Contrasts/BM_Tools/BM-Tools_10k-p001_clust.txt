@@ -1,0 +1,93 @@
+Mask:
+Reference Space               = MNI152
+Dimensions                    = 91x109x91
+Number of within-brain voxels = 262245
+Mask Size                     = Less Conservative (Larger)
+
+Foci:
+Coordinate System             = MNI
+Data Set 1 Input Image        = BM_ROI_notools_p001_C05_10k_ALE.nii
+Data Set 1 Non-Zero Voxels    = 986
+Number of foci                = 223
+Number of experiments         = 53
+Total number of subjects      = 631
+Data Set 2 Input Image        = Toolsstatic_ROI_p001_C05_10k_ALE.nii
+Data Set 2 Non-Zero Voxels    = 469
+Number of foci                = 116
+Number of experiments         = 41
+Total number of subjects      = 562
+Pooled Data Input Image       = BMnotoolsandToolsstatic_ROI_p001_C05_10k_ALE.nii
+Pooled Data Non-Zero Voxels   = 1193
+Number of foci                = 339
+Number of experiments         = 94
+Total number of subjects      = 1193
+
+ALE - Random Effects, Turkeltaub Non-Additive (HBM, 2012):
+File of ALE voxels            = BM-Tools_ALE.nii
+FWHM minimum value            = 9.056468275459084
+FWHM median value             = 9.755397007122182
+FWHM maximum value            = 12.00015700529694
+Minimum A>B ALE score         = -0.044656616
+Maximum A>B ALE score         = 0.053703506
+Permutations                  = 10000
+
+P Values: Eickhoff (HBM, 2009)
+File of P values              = BM-Tools_10k_P.nii
+
+Thresholding:
+Threshold Method              = Uncorrected P value
+Chosen P value threshold      = 0.001
+Volume > Threshold            = 3224 mm^3
+Chosen min. cluster size      = 20 mm^3
+Thresholded ALE image         = BM-Tools_10k-p001_Z.nii
+
+Cluster Analysis:
+ #1: 2888 mm^3 from (44,-74,-4) to (62,-40,18) centered at (53.6,-60.5,6.8) with 4 peaks
+     with a max value of 6.0E-4 P, 3.24 Z at (55,-61.6,6.7) 
+   Labels: (Gray Matter only)
+     Hemisphere: 100% Right Cerebrum
+     Lobe: 70.3% Temporal Lobe, 29.7% Occipital Lobe
+     Gyrus: 42.4% Middle Temporal Gyrus, 26.3% Inferior Temporal Gyrus, 26.3% Superior Temporal Gyrus, 5.1% Middle Occipital Gyrus
+     Cell Type: 44.1% Brodmann area 37, 28.8% Brodmann area 39, 11.9% Brodmann area 22, 5.1% Brodmann area 19
+
+ #2: 336 mm^3 from (-54,-72,6) to (-44,-64,14) centered at (-49.6,-67.9,11.9) with 2 peaks
+     with a max value of 1.0E-4 P, 3.72 Z at (-52,-66,14) 
+   Labels: (Gray Matter only)
+     Hemisphere: 100% Left Cerebrum
+     Lobe: 78.6% Temporal Lobe, 21.4% Occipital Lobe
+     Gyrus: 78.6% Middle Temporal Gyrus, 21.4% Middle Occipital Gyrus
+     Cell Type: 71.4% Brodmann area 37, 21.4% Brodmann area 39, 7.1% Brodmann area 19
+
+
+Experiment Table:
+[ 1 0 1 2 1 0 1 1 1 0 2 1 0 1 0 0 0 0 0 1 0 0 0 0 1 0 1 0 1 0 1 0 0 4 0 1 0 0 1 0 0 1 0 1 1 0 0 0 0 1 0 0 0 ]
+[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ]
+
+Contributors to cluster #1
+1 foci from Bonda et al 1996, body, PLD, > non-bio motion, PET; hand, PLD, > non-bio motion, PET		  
+1 foci from Grezes et al 2001, body, PLD, > non-bio motion, MRI		  
+2 foci from Grezes et al 2007, body, opening doors, > static bio, MRI, button press, ToM		  
+1 foci from Grossman and Blake 2002, body, PLD, > non-bio scrambled motion, MRI, button press		  
+1 foci from Iseki et al 2008, body, gait/stepping vids, > bio scrambled, MRI		  
+1 foci from Jung et al 2009, body, PLD, > non-bio scrambled motion, button press, MRI		  
+1 foci from Michels et al 2005, body, PLD, > non-bio static, button press, MRI		  
+2 foci from Peuskens et al 2005, body, PLD, > non-bio scrambled motion, MRI		  
+1 foci from Pichon et al 2008, body, door opening, > bio static, button press, MRI		  
+1 foci from Saygin et al 2004, body, PLD, > non-bio scrambled motion, button press, MRI		  
+1 foci from Grezes et al 1998, hand, hand movements, > static bio, PET		  
+1 foci from Montgomery et al 2007, hand, communicative gestures, > blank/rest, MRI, gesture		  
+1 foci from Wheaton et al 2004, hand, opening/closing hand, > static bio, MRI; mouth, opening/closing, > static bio, MRI		  
+1 foci from Chong et al 2008, hand w/ object, grasping, > non-bio static, MRI		  
+1 foci from Gazzola et al 2007, hand w/ object, human/robot arm movements, > static bio + non-bio, MRI		  
+4 foci from Molnar-Szakacs et al 2006, hand w/ object, hand moving objects, > blank/rest, MRI		  
+1 foci from Shmuelof et al 2005, hand w/ object, hand manipulating objects, > bio motion scrambled?, MRI		  
+1 foci from Tai et al 2004, hand w/ object, grasping, > bio static, PET		  
+1 foci from Kilts et al 2003, face, dynamic neutral faces, > static bio, button press, PET, emotion/ToM		  
+1 foci from Hooker et al 2003, eye, moving gaze, > bio static + non-bio motion, button press, MRI		  
+1 foci from Pelphrey et al 2005, eye, animated figure with moving eyes, > bio static, MRI; mouth, animated character opening/closing, > bio static, MRI		  
+1 foci from Calvert et al 1997, mouth, mouthing numbers, > static bio, semantics		  
+
+Contributors to cluster #2
+1 foci from Vaina et al 2001, body, PLD, > non-bio scrambled motion, button press, MRI		  
+1 foci from Grezes et al 1999, hand, hand movements, > static bio, PET		  
+1 foci from Perani et al 2001, hand w/ object, grasping objects, > non-bio static, PET		  
