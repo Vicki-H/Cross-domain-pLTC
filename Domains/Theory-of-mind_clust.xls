@@ -1,0 +1,6 @@
+Cluster #	x	y	z	ALE	Label (Nearest Gray Matter within 5mm)
+1	-52	-58	22	5.337883E-6	Left Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 39
+1	-56	-26	-6	2.209111E-6	Left Cerebrum.Temporal Lobe.Middle Temporal Gyrus.Gray Matter.Brodmann area 21
+1	-56	-38	0	2.0602051E-6	Left Cerebrum.Temporal Lobe.Middle Temporal Gyrus.Gray Matter.Brodmann area 21
+2	56	-54	26	4.1338567E-6	Right Cerebrum.Parietal Lobe.Supramarginal Gyrus.Gray Matter.Brodmann area 40
+3	52	-32	-2	2.0759014E-6	Right Cerebrum.Temporal Lobe.Middle Temporal Gyrus.Gray Matter.Brodmann area 21
